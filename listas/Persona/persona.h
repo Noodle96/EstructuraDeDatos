@@ -34,14 +34,13 @@ public:
     // bool operator <(Persona *&p1){
     //     return (numeroDocumento < p1->numeroDocumento);
     // }
-    bool operator ==(Persona *);
     // bool operator !=(Persona *p1){
     //     return numeroDocumento!=p1->getNumeroDocumento();
     // }
 
-    // friend bool operator== (const Persona &p1, const Persona &p2){
-    //     return p1.numeroDocumento == p2.numeroDocumento;
-    // }
+    friend bool operator== (const Persona &p1, const Persona &p2){
+        return p1.numeroDocumento == p2.numeroDocumento;
+    }
 
 
 
