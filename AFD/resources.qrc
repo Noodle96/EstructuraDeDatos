@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>dot.png</file>
+        <file>close.jpeg</file>
+        <file>../../Imágenes/images_qt_menu_toolbar/iniciar.jpeg</file>
+        <file>../../Imágenes/images_qt_menu_toolbar/clear.jpeg</file>
+    </qresource>
+</RCC>
