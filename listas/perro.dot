@@ -1,0 +1,25 @@
+digraph ll {
+	node [shape=record];
+	rankdir=LR;
+	edge [tailclip=false];
+	nodo1 [label="{ {<data> 1 } | <ref> 0x563ee8af5f90\n\n\n} | <actual> 0x563ee8af5f10 "];
+	nodo2 [label="{ {<data> 3 } | <ref> 0x563ee8af5ef0\n\n\n} | <actual> 0x563ee8af5f90 "];
+	nodo3 [label="{ {<data> 10 } | <ref> 0x563ee8af5e90\n\n\n} | <actual> 0x563ee8af5ef0 "];
+	nodo4 [label="{ {<data> 15 } | <ref> 0x563ee8af5eb0\n\n\n} | <actual> 0x563ee8af5e90 "];
+	nodo5 [label="{ {<data> 30 } | <ref> 0x563ee8af5f30\n\n\n} | <actual> 0x563ee8af5eb0 "];
+	nodo6 [label="{ {<data> 44 } | <ref> 0x563ee8af5ed0\n\n\n} | <actual> 0x563ee8af5f30 "];
+	nodo7 [label="{ {<data> 50 } | <ref> 0x563ee8af5f50\n\n\n} | <actual> 0x563ee8af5ed0 "];
+	nodo8 [label="{ {<data> 104 } | <ref> 0x563ee8af5f70\n\n\n} | <actual> 0x563ee8af5f50 "];
+	nodo9 [label="{ {<data> 204 } | <ref> 0\n\n\n} | <actual> 0x563ee8af5f70 "];
+	null[shape=box];
+
+	nodo1:ref:c -> nodo2[arrowtail=dot, arrowhead=vee, dir=both];
+	nodo2:ref:c -> nodo3[arrowtail=dot, arrowhead=vee, dir=both];
+	nodo3:ref:c -> nodo4[arrowtail=dot, arrowhead=vee, dir=both];
+	nodo4:ref:c -> nodo5[arrowtail=dot, arrowhead=vee, dir=both];
+	nodo5:ref:c -> nodo6[arrowtail=dot, arrowhead=vee, dir=both];
+	nodo6:ref:c -> nodo7[arrowtail=dot, arrowhead=vee, dir=both];
+	nodo7:ref:c -> nodo8[arrowtail=dot, arrowhead=vee, dir=both];
+	nodo8:ref:c -> nodo9[arrowtail=dot, arrowhead=vee, dir=both];
+	nodo9:ref:c -> null [arrowtail=dot, arrowhead=vee, dir=both];
+}

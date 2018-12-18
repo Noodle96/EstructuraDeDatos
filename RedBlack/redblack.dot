@@ -1,0 +1,11 @@
+digraph ll {
+	node [shape=record];
+	52[style=filled ,fillcolor=grey26 label="{ <data> 52  | { <left>  | <right>  }} "];
+	30[style=filled ,fillcolor=grey26 label="{ <data> 30  | { <left>  | <right>  }} "];
+	71[style=filled ,fillcolor=grey26 label="{ <data> 71  | { <left>  | <right>  }} "];
+	61[style=filled ,fillcolor=red label="{ <data> 61  | { <left>  | <right>  }} "];
+
+	52:left:c -> 30;
+	52:right:c -> 71;
+	71:left:c -> 61;
+}

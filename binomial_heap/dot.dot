@@ -1,0 +1,34 @@
+digraph ll {
+
+	node [shape=Mrecord, fontsize=16];
+	rankdir=TB;
+	node1_3 [label="{ { { <data>1 } | <grado> 3 } | <ref> ///  } | <actual>  * " ]; 
+	node5_2 [label="{ { { <data>5 } | <grado> 2 } | <ref> ///  } | <actual>  * " ]; 
+	node1_3 -> node5_2;
+
+	node5_2 [label="{ { { <data>5 } | <grado> 2 } | <ref> ///  } | <actual>  * " ]; 
+	node7_1 [label="{ { { <data>7 } | <grado> 1 } | <ref> ///  } | <actual>  * " ]; 
+	node5_2 -> node7_1;
+
+	node7_1 [label="{ { { <data>7 } | <grado> 1 } | <ref> ///  } | <actual>  * " ]; 
+	node8_0 [label="{ { { <data>8 } | <grado> 0 } | <ref> ///  } | <actual>  * " ]; 
+	node7_1 -> node8_0;
+
+	node7_1 [label="{ { { <data>7 } | <grado> 1 } | <ref> ///  } | <actual>  * " ]; 
+	node6_0 [label="{ { { <data>6 } | <grado> 0 } | <ref> ///  } | <actual>  * " ]; 
+	node7_1 -> node6_0;
+
+	node5_2 [label="{ { { <data>5 } | <grado> 2 } | <ref> ///  } | <actual>  * " ]; 
+	node3_1 [label="{ { { <data>3 } | <grado> 1 } | <ref> ///  } | <actual>  * " ]; 
+	node5_2 -> node3_1;
+
+	node3_1 [label="{ { { <data>3 } | <grado> 1 } | <ref> ///  } | <actual>  * " ]; 
+	node4_0 [label="{ { { <data>4 } | <grado> 0 } | <ref> ///  } | <actual>  * " ]; 
+	node3_1 -> node4_0;
+
+	node3_1 [label="{ { { <data>3 } | <grado> 1 } | <ref> ///  } | <actual>  * " ]; 
+	node2_0 [label="{ { { <data>2 } | <grado> 0 } | <ref> ///  } | <actual>  * " ]; 
+	node3_1 -> node2_0;
+
+
+}

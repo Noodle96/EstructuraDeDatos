@@ -1,0 +1,1 @@
+dot -Tpng name.dot -o example1.png

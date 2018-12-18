@@ -1,0 +1,18 @@
+/* l4 [label="{ a|{los monos de africa |sgte| f}| next}"]; // para la lista doble */
+digraph ll {
+  node [shape=Mrecord];
+  rankdir=LR;
+  edge [tailclip=false];
+  size="100";
+  l1 [height = 1.5, width = 3, style=filled, fillcolor=red,label="{ { <data>1 }|  <ref> OBx001201201 \n\n\n} | <actual> OA"];
+  l2 [height = 1.5, width = 3, label="{ { <data>3 }|  <ref> OBx001201201 \n\n\n} | <actual> OB"];
+  l3 [height = 1.5, width = 3, label="{ { <data>10 }| <ref> OBx001201201 \n\n\n} | <actual> OC"];
+  l4 [height = 1.5, width = 3, label="{ {<data>15 }| <ref>OBx001201201 \n\n\n} | <actual> OD"];
+  null[height = 1.5, width = 3,shape=box,fillcolor=red];
+
+  l1:ref:c -> l2 [ arrowtail=dot, arrowhead=vee, dir=both ];
+  l2:ref:c -> l3 [ arrowtail=dot, arrowhead=vee, dir=both];
+  l3:ref:c -> l4 [arrowtail=dot, arrowhead=vee, dir=both];
+  l4:ref:c -> null [arrowtail=dot, arrowhead=vee, dir=both];
+
+}

@@ -1,0 +1,8 @@
+digraph ll {
+	node [shape=Mrecord, fontsize=16];
+	rankdir=LR;
+	edge [tailclip=false];
+	ranksep=.75;
+	null[shape=box];
+
+}

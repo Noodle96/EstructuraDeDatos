@@ -1,0 +1,20 @@
+digraph ll {
+	node [shape=Mrecord, fontsize=16];
+	rankdir=LR;
+	edge [tailclip=false];
+ranksep=.75;
+	nodo1 [height = 0.015, width = 0.03,label="{ {<data> 1 } | <ref> 0x55e8fbef85b0\n\n\n} | <actual> 0x55e8fbef85d0 "];
+	nodo2 [height = 0.015, width = 0.03,label="{ {<data> 10 } | <ref> 0x55e8fbef8550\n\n\n} | <actual> 0x55e8fbef85b0 "];
+	nodo3 [height = 0.015, width = 0.03,label="{ {<data> 15 } | <ref> 0x55e8fbef8570\n\n\n} | <actual> 0x55e8fbef8550 "];
+	nodo4 [height = 0.015, width = 0.03,label="{ {<data> 30 } | <ref> 0x55e8fbef85f0\n\n\n} | <actual> 0x55e8fbef8570 "];
+	nodo5 [height = 0.015, width = 0.03,label="{ {<data> 44 } | <ref> 0x55e8fbef8590\n\n\n} | <actual> 0x55e8fbef85f0 "];
+	nodo6 [height = 0.015, width = 0.03,label="{ {<data> 50 } | <ref> 0\n\n\n} | <actual> 0x55e8fbef8590 "];
+	null[shape=box];
+
+	nodo1:ref:c -> nodo2[arrowtail=dot, arrowhead=vee, dir=both];
+	nodo2:ref:c -> nodo3[arrowtail=dot, arrowhead=vee, dir=both];
+	nodo3:ref:c -> nodo4[arrowtail=dot, arrowhead=vee, dir=both];
+	nodo4:ref:c -> nodo5[arrowtail=dot, arrowhead=vee, dir=both];
+	nodo5:ref:c -> nodo6[arrowtail=dot, arrowhead=vee, dir=both];
+	nodo6:ref:c -> null [arrowtail=dot, arrowhead=vee, dir=both];
+}

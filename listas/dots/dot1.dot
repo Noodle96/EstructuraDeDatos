@@ -1,0 +1,10 @@
+digraph ll {
+	node [shape=Mrecord, fontsize=16];
+	rankdir=LR;
+	edge [tailclip=false];
+ranksep=.75;
+	nodo1 [height = 0.015, width = 0.03,label="{ {<data> 15 } | <ref> 0\n\n\n} | <actual> 0x55e8fbef8550 "];
+	null[shape=box];
+
+	nodo1:ref:c -> null [arrowtail=dot, arrowhead=vee, dir=both];
+}
