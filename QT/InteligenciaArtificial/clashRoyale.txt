@@ -1,0 +1,50 @@
+Clash Royale is a video game developed and published by Supercell.[1] The game combines elements from collectible card games, tower defense, and multiplayer online battle arena.[2][3][4] The game was released globally on March 2, 2016.[5][6] Clash Royale reached $1 billion in revenue in less than a year on the market.[7] Clash Royale is a tower rush video game which pits players in games featuring two or four players (1v1 or 2v2) in which the objective (three minutes into the game) is to destroy the most amount of opposing towers, with the destruction of the "King tower" being an instantaneous win.[8] After three minutes, If both of the players or both of the teams have an equal amount of crowns or none at all the match continues automatically onto overtime and the player who destroys an opposing tower wins instantaneously[9]. After overtime, a draw occurs. In a late 2018 update ditching the teammate in a 2v2 match multiple times caused the player to have a block that prevents him/her from playing 2v2 with random players for a certain amount of time.
+
+In Clash Royale, players are ranked by their number of trophies. Players level up by gaining Experience (or King Level) points through donating and upgrading cards. The highest possible level is level 13.
+
+Trophies are won or lost through multiplayer battles, a player wins a battle by destroying more towers than the opponent (each destroyed tower being represented as a 'crown'), or by destroying the opponent's King's Tower, resulting in an automatic "three-crown" victory (unless the King's Tower was destroyed at the same time by both players, resulting in a draw).
+
+There are twelve playing arenas in total (excluding the tutorial arena, Training Camp): Goblin Stadium, Bone Pit, Barbarian Bowl, P.E.K.K.A's Playhouse, Spell Valley, Builder's Workshop, Royal Arena, Frozen Peak, Jungle Arena, Hog Mountain, Electro Valley, and Legendary Arena, with each arena corresponding to a certain trophy count range. A player reaches leagues after crossing 4000 Trophies
+Cards
+
+Playable units, buildings, and spells are represented as cards. Prior to each battle (with the exception of the first battle in training Camp), players construct a deck of eight cards which they use to attack and defend against their opponent's cards. At the start of each game, both players begin with four randomly chosen cards from their deck of eight.
+
+Each card costs a certain amount of elixir to play. Players start the battle with 5 elixir points (0 in Double and Triple Elixir modes), and one elixir point is replenished every 2.8 seconds (or 1.4 seconds in the final 60 seconds of the game and overtime, and every 0.9 seconds during Triple Elixir), with a maximum of 10 elixir points. Once a card is played, a new card is automatically drawn from the player's eight card deck.
+
+Clash Royale first launched with 42 cards, there were 14 cards for each of the three rarities that existed at that time: Common, Rare, and Epic. The February 2016 update to the game added a new rarity: Legendary with the introduction of two new legendary cards to the game. As of September 2018, there are 88 cards in the game, coming in four ascending rarities: Common, Rare, Epic, and Legendary. The September 2018 update changed card levels so as not to confuse new players. All cards now cap at level 13, with common unlocks starting at level 1, rare unlocks starting at level 3, epic cards at level 6, and legendary cards at level 9. Tournament Standard has been changed to level 9 for all cards. The cards also come in three different categories: Troops, Buildings and Spells.
+
+In the 2018 Summer (June update), emote deck was added, players can now use up to eight emotes. Players can now choose any eight emotes from their emote collection (36 emotes). Players have to collect their emotes from the shop (excluding the 4 King emotes which are free for all players).
+
+Trade tokens were introduced in the September 2018 update. They can be used to trade common, rare, epic, and legendary cards with clanmates so players can get more of the cards they need and get rid of the cards they don't want. They can be won from challenges, Clan war rewards and purchased from the Shop[10].
+
+
+
+
+Clans
+
+From experience level 1 players can join or form clans in Clash Royale. Joining or forming a clan enables the player to engage in friendly battles and clan wars. It also unlocks the feature of trading and requesting cards from clanmates. Clan members can also chat and share emotes with their clanmates. A clan consists of a maximum player limit of 50.
+Clan Wars
+
+During the April 25, 2018 update, a new Clan Wars feature was added. Clan Wars consists of five clans attacking other clans to get better rewards in the form of special chests. The clan with the most wins would win the clan war. Players would receive a Clan war chest in a season of fourteen days. Clan Chests were also removed in the update and replaced with the new Clan War chests.[11] Clan war chests gets improved as the clan climbs up the war leagues. To play a clan war, the clan must have a minimum player limit of 10 and the players must have their experience level higher than 8. One clan war is separated into two days. They are 'collection day' and 'war day'. The collection day is most likely the preparation day where we have to collect cards for the war day.[citation needed]At the end of a war day, a player recieves 'War bounty' a reward for engaging in the war day.
+Tournaments
+
+In July 2016, Supercell introduced a new Tournament feature. Tournaments are similar to normal battles, but cards are leveled down so commons are level 9, rares are level 7, epics are level 4, and legendary cards are level 1. After the september update mentioned above this changed and all of these card levels now start from level 9. This feature is unlocked at player experience Level 5, but can only be played from experience level 8. Tournaments can only be created by using gems, and the creator can choose to make it password protected or open. Based on tournament performance, players are rewarded with tournament chests. As well as tournaments, there are two types of Victory Challenges in which the goal is to win twelve times while losing no more than three times or to play until you finish the entire challenge by winning all crowns or battles. This type of challenge does not contain the rule "three losses and you are out". A Grand Challenge costs 100 gems to enter, and a Classic Challenge costs 10. Completing (or getting 12 wins on) a Classic Challenge gives you 2000 gold and 100 cards, and completing a Grand Challenge will give you 22,000 gold and 1,100 cards.[12] Supercell has also added various event challenges, for limited periods of time, that add special features to the battles, or allow players to receive special cards. These event challenges can also be played in Friendly Battles.[13] As of the October 2017 update, players would no longer get a refund on gems if no matches take place in their custom tournaments.
+Leagues
+
+In March 2017, "Leagues" were added to the game. Once above 4000 trophies, players are placed in one of nine different leagues ranging from Challenger I to Ultimate Champion.[14] At the end of each season, players receive rewards based on the highest league achieved during that season. Another feature that was introduced is Clan Battles. Two players get to battle side by side with another member of their clan facing off against two other opponents from another clan. This is the first update to include a new game mode.
+Quests
+
+Quests[15] were added in the 2017 October update as a set of achievements which the players have to complete to receive rewards. The Quests section also includes a free chest which is given to the player from time to time. This was added when the developers decided to remove free chests from the game.
+Release
+
+The game was soft-launched in Canada, Hong Kong, Australia, Sweden, Norway, Denmark, Iceland, Finland and New Zealand for iOS platforms on January 4, 2016.[16] The game was soft-launched on Android for those same countries on February 16, 2016 in the form of an Android application package.[17] Both platforms received a global release on March 2, 2016.[5]
+
+Upon its release, Clash Royale became the most downloaded and top-grossing app on the U.S. iOS App Store.[18]
+Reception
+
+
+Clash Royale mainly received positive reviews, with TouchArcade's Eli Hodapp calling it "absolutely phenomenal" in his five-star review.[4] Pocket Gamer's Harry Slater gave the game a score of 9/10, summing up "It's an incredible amount of rewarding fun, it's nail-biting at times, and there's content here that will keep you busy for weeks if not months."[20] Writing for Geek.com, James Plafke criticized "Clash Royale for being genuinely fun—more so than Clash of Clans—while the developer chronically interrupts the player from enjoying it."[21] Clash Royale has received a very positive response from its players, with an average score of 4.5 out of 5 on the Google Play Store and an average score of 4 out of 5 on the Apple App Store.
+
+Crown championship
+
+The Clash Royale Crown Championship is the official e-sports world championship of the game, developed by Supercell.[22] The tournament connects the best players all over the world from North America, Asia, Latin America, Europe, and more. The first edition had over 28 million participants all over the world, becoming the world's largest Clash Royale event.[23] The first world champion was Sergio Ramos who beat MusicMaster by 3 games to 1 on the Crown Championship World Finals.[24] The 2018 Clash Royale Crown Championship is scheduled to be held in Asia.[25]

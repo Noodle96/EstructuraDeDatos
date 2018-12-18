@@ -1,0 +1,10 @@
+# include < iostream >
+using namespace std ;
+int main ( ) {
+    int a = 23 ;
+    int b = 34 ;1
+    int c = a + b ;
+      bool Flag = false ;
+      string 2Num = "";
+return  0 ;
+}

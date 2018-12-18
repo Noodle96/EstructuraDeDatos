@@ -1,0 +1,4943 @@
+recent#reciente.
+recipe#la receta.
+receive#recibir.
+receipt#el recibo.
+real#verdadero[Adjective].
+real#real.
+realize#darse cuenta de[Verb].
+realist#vivo[Adjective].
+realist#realista[Noun].
+zucchini#el calabaci/n[Noun].
+abandonee#dejado.
+abandonee#aislado.
+abandonee#abandonado.
+abandoned#olvidado.
+abandoned#desamparado.
+abandoned#dejado.
+abandoned#abandonado.
+aback#hacia atras.
+aback#atra/s[Adverb].
+aardvarks#osos hormigueros.
+aardvarks#cerdos hormigueros.
+aardvark#oso hormiguero[Noun].
+aardvark#cerdo hormiguero.
+zounds#ca/spita.
+zoom#pasar zumbando[Verb].
+zoology#la zoologi/a[Noun].
+zoologist#el zoo/logo[Noun].
+zoo#jardi/n zoolo/gico[Noun].
+zone#zona[Noun].
+zenith#ce/nit.
+zenith#cenit.
+zenithal#cenital[Adjective].
+zebras#cebras[Noun].
+zebra#cebra[Noun].
+zealous#celoso.
+zealotry#fanatismo[Noun].
+zealot#fana/tico[Noun].
+zealot#defensor.
+zeal#celo.
+zapping#zapeo[Noun].
+zany#bufo/n[Noun].
+yuppie#yuppie.
+yuppies#yuppies.
+yule#pascua de navidad.
+yucca#yuca.
+yttrium#itrio.
+ytterbium#iterbio.
+yowl#aullar.
+you#vosotros(plural/informal)[Pronoun].
+you#vosotros(plural/informal).
+you#usted.
+you#tu/.
+youth#juventud.
+youthfulness#juventud.
+youthful#juvenil.
+your#tus.
+yourselves#ustedes mismos.
+yours#el tuyo.
+yourself#tu/ mismo.
+youngster#jovencito.
+young#joven.
+younger#menor.
+yore#antan~o.
+yonder#ahi/ alla/.
+yon#ahi/ alli/.
+yolk#yema de huevo.
+yoke#sojuzgar.
+yield#producir.
+yew#tejo.
+yet#au/n.
+yesterday#ayer.
+yes#si,afimacion.
+yeomanry#burguesi/a.
+yeoman#hacendado[Noun].
+yen#yen.
+yelp#gan~ir[Verb].
+yells#grita.
+yellows#amarillos.
+yellowish#amarilloso.
+yellowish#amarillento.
+yellowing#amarillando.
+yellowed#amarillo/.
+yellow#amarillo.
+yell#grito.
+yelled#grito/.
+yell#aullar[Verb].
+yeast#levadura.
+yearning#anhelo.
+yearn#desear.
+yearly#anualmente.
+yearbook#anuario[Noun].
+year#an~o.
+yeah#si.
+yawning#bostezando.
+yawn#el bostezo.
+yawn#bostezo.
+yawn#bostezar.
+yawl#yola[Noun].
+yarn#hilo[Noun].
+yard#yarda[Noun].
+yard#corral[Noun].
+yacht#yate.
+yachts#yates.
+xylophone#xilo/fono[Noun].
+xylophones#xilo/fonos[Noun].
+www#RIM (Red Mundial Interna).
+written#escrito.
+writing#escritura[Verb].
+writes#escribe[Verb].
+writer#el escritor(a)[Noun].
+write#escribir.
+wrinkle#la arruga.
+wrestling#lucha libre[Noun].
+wrap#envolver[Verb].
+wound#la herida.
+wounded#herida.
+worse#peor.
+worry#preocuparse.
+worried#preocupado.
+world#el mundo.
+work#trabajo.
+work#trabajar.
+workman#trabajador[Noun].
+working#trabajando.
+workingmen#trabajadores.
+workingman#trabajador.
+worker#trabajador, laborante.
+workers#trabajadores[Noun].
+work#el trabajo.
+worked#trabajo/.
+workbench#mesa de trabajo[Noun].
+workbenches#mesas de trabajo[Noun].
+workable#trabajable.
+word#la palabra.
+wool#la lana.
+wood#la madera.
+woman#la mujer.
+wolf#el lobo.
+without#sin.
+with me#conmigo.
+with#con.
+witch#la bruja[Noun].
+witches#las brujas[Noun].
+witchcraft#brujeria[Noun].
+witch#bruja[Noun].
+wise#sabio.
+wintering#pasando el invierno (en algun sitio)[Verb].
+winter#el invierno.
+wintered#paso/ el invierno[Verb].
+winners#los ganadores[Noun].
+winner#el ganador.
+wing#la ala.
+win#ganar.
+wine#el vino.
+windshield#el parabrisa (se usa en los EEUU)[Noun].
+windshield#el parabrisa.
+windscreen#el parabrisa (se usa en Australia)[Noun].
+window#la ventana.
+wind#el viento.
+wife#marida[Noun].
+wife#la esposa.
+widow#viuda[Noun].
+widower#viudo[Noun].
+wide#ancho.
+why#por que/.
+whore#puta[Noun].
+whiter#ma/s blanco.
+white#blanco.
+whistle#silbar.
+whiskey#el whiskey.
+while#mientras.
+where're#Donde esta?.
+where#donde.
+whenever#cada vez que[Adverb].
+when#cuando[Adverb].
+wheel#la rueda.
+what#que[Preposition].
+whatever#lo que; que/[Pronoun].
+wet#mojado.
+west#el oeste.
+we#nosotros.
+well#bien[Adverb].
+weld#soldar[Verb].
+weld#soldadura[Noun].
+welcome#grato[Adjective].
+welcome#denatha.
+welcome#dar la bienvenida a [Verb].
+welcome#bienvenidos[Adjective].
+welcome#agradable[Adjective].
+weird#raro[Adjective].
+weird#misterioso[Adjective].
+weird#fanta/stico[Adjective].
+weird#extran~o[Adjective].
+weighty#ponderoso[Adjective].
+weighty#importante[Adjective].
+weighty#grave[Adjective].
+weighty#de mucho peso[Adverb].
+weights#pesos[Noun].
+weights#pesas[Noun].
+weights#cargas[Noun].
+weight#la pesa[Noun].
+weight#el peso.
+weight#carga[Noun].
+weight#asignar un peso a[Verb].
+weight#an~adir peso a[Verb].
+weighs#pondera[Verb].
+weighs#pesa[Verb].
+weighs#considera[Verb].
+weigh#ponderar[Verb].
+weigh#pesar.
+weigh#considerar[Verb].
+weevil#gorgojo[Noun].
+weeps#llora[Verb].
+weep#llorar.
+weeping#lloroso[Adjective].
+weeping#lloro/n[Adjective].
+weeping#llorando[Verb].
+weeping#llanto[Noun].
+weeping#la/grimas[Noun].
+weepers#lloronas[Noun].
+weeper#llorona[Noun].
+week#semana.
+weekly#semanal.
+week#la semana.
+weekends#fines de semana.
+weekend#fin de semana.
+weekday#d�a de la semana.
+wedge#cu�a.
+wedding#la boda.
+wedding#boda.
+wed#casarse.
+wed#casar.
+web#tejido tela telara�a enredo red trama.
+weather#el tiempo.
+weather#clima.
+weasel#comadreja.
+way#la via[Noun].
+way#camino[Noun].
+wax#la cera.
+wax#cera.
+waves#OLAS[Noun].
+wave#ola (de agua)[Noun].
+waterfall#la catarata.
+water#el agua[noun].
+water#el agua.
+watch#el reloj.
+wastebaskets#basureros.
+wastebasket#basurero.
+wasps#avispas.
+wasp#avispa[Noun].
+wash#lavar.
+washing#lavando[Verb].
+washed#lavo[Verb].
+was#fue.
+warm#caliente[Adjective].
+war#la guerra.
+want#querir.
+wanted#querido (m), querida (f).
+walnut#la nuez.
+wall#pared (a dentro).
+wall#muro (a fuera).
+wall#la pared.
+wallet#la cartera.
+walk#andar.
+wake up#despertarse.
+wait for#esperar.
+wait#esperar.
+waiter#el mozo.
+waiter#el camarero.
+waited#perdado[Verb].
+waist#la cintura[Noun].
+waistcoat#el chaleco[Noun].
+waistcoat#el chaleco.
+waist#cintura[Noun].
+waistband#cintur�n.
+wails#lamento(a)[Verb].
+wail#lamento[Verb].
+wail#lamentarse[Verb].
+wag#mover[Verb].
+wag#menear[Verb].
+wage#sueldo, salario [Noun].
+wages#pago/paga/sueldo[Noun].
+wager#la apuesta[Noun].
+wager#apuesta[Noun].
+wage#el salario[Noun].
+waft#soplo de viento[Noun].
+wafers#los barquillos[Noun].
+wafers#galletas[Noun].
+wafer#galleta[Noun].
+wafer#el barquillo[Noun].
+wad#tap�n o corcho[Noun].
+wad#la borra[Noun].
+wade#chapotear[Verb].
+waddle#nalguear, caminar a pasos peque�os[Verb].
+wadding#relleno[Noun].
+wacke#roca bas�ltica[Noun].
+wack#dar un buen golpe a[Verb].
+voice#la voz.
+vodka#el vodka.
+vocabulary#el vocabulario.
+vitamin#la vitamina.
+visit#visitar.
+vinegar#el vinagre.
+village#el pueblo.
+view#la vista.
+vest#el chaleco.
+very#muy.
+verb#verbo.
+verb#el verbo.
+verbal#verbal.
+velvet#el terciopelo.
+vegetarian#vegetariano[Noun].
+vegetable#la legumbre.
+veal#la ternera.
+vaulted#saltado, brincado[Verb].
+vault#b�veda, s�tano, caja fuerte[Noun].
+vanilla#la vainilla.
+valuable#valioso.
+vain#vano[Adjective].
+vainglory#vanagloria[Noun].
+vagina#vagina[Noun].
+vaginas#vaginas[Noun].
+vaginal#vaginal[Adjective].
+vaccination#vacuna.
+vacancy#vacante[Noun].
+vacancies#vacantes[Noun].
+use#usar.
+use#el uso.
+upgrade#mejoramiento.
+up#arriba.
+untrans#y[].
+untrans#n.
+until#hasta.
+untie#desatar.
+uno#one.
+unmarried#soltero.
+university#la universidad.
+United States#Estados Unidos.
+unhappy#infeliz.
+unemployed#desempleo[Adjective].
+underwear#la ropa interior.
+underutilize#infrautilizar[Verb].
+underutilization#infrautilizacio/n[Noun].
+underused#infrautilizado[Adjective].
+understanding#comprensio/n[Noun].
+understand#entender.
+understandable#comprensible[Adjective].
+understandability#comprensibilidad[Adjective].
+undershirt#la camiseta.
+underline#subrayar.
+under#bajo.
+uncover#descubrir.
+uncle#tio.
+umbrella#paraguas[Noun].
+umbrella#el paraguas.
+ultimatum#ultimatum[Noun].
+ultimately#Ultimadamente[Adverb].
+ulcer#ulcera[Noun].
+ugly#feo.
+tyrannize#tiranizar[Verb].
+typist#el (la) mecano/grafo(a)[Noun].
+typhus#el tifus[Noun].
+typhoon#el tifo/n[Noun].
+typewriter#la maquina de escribir[Noun].
+typewriter#la ma/quina de escribir[Noun].
+tycoon#Magnate[Noun].
+two#dos.
+twin#gemelo[Noun].
+twenty#veinte.
+twelve#doce.
+turtle#tortuga.
+turkey#el pavo.
+Tuesday#el martes.
+truth#la verdad.
+truck#camion[Noun].
+trip#el viaje.
+trick#truco.
+triceps#triceps.
+tributes#tributos.
+tributary#tributo.
+tribunal#tribunal.
+tribunals#tribunales.
+tribulation#tribulacio/n ( woe ).
+tribe#tribu/.
+tribes#tribu/s.
+triangular#triangular.
+triangle#tria/ngulo.
+triangles#tria/ngulos.
+trials#juicios.
+trial#juicio.
+tremendous#tremendo.
+tremendously#tremendamente.
+trembly#tembloroso.
+trembling#tempando.
+tremble#temblar.
+trembles#tiembla.
+trembled#temblo/.
+trees#arboles.
+tree#arbo/l.
+treats#golosinas ( sweets ).
+treatment#tratamiento.
+treatments#tratamientos.
+treaties#pacto ( pact ).
+treat#golosina ( sweets).
+treasury#tesoreri/a.
+treasure#tesoro.
+treasures#tesoros.
+treasurer#tesorero.
+treasurership#tesoreri/a.
+treasured#atesorado.
+treason#traicio/n.
+trays#bandejas.
+tray#bandeja.
+travel#viajar ( to travel ).
+travel#viajar.
+travels#viajes.
+traveling#viajando.
+travelings#viajes.
+traveler#viajante.
+travelers#viajantes.
+traveled#viajo/.
+trauma#trauma.
+traumatize#traumar.
+traumatized#traumado.
+traumatic#traumatico.
+traumas#traumas.
+trattoria#parrilla.
+trash#basura.
+traps#trampas.
+trapped#atrapado.
+trapezoid#trapezoide.
+trapezoids#trapezoides.
+trapezist#trapecista.
+trapeze#trapecio.
+transvestite#transvesti.
+transsexual#transexual.
+transsexualism#transexualismo.
+transmit#transmitir.
+transmittable#transmisible.
+transmits#transmite.
+transmission#transmisio/n.
+transmissions#transmisiones.
+transmissible#transmisible.
+transmissibility#transmisibidad.
+translucent#reluciente.
+translocate#translocar.
+transliteration#transliteracio/n.
+transliterate#transliterar.
+translator#traductor.
+translators#traductores.
+translation#traduccio/n.
+translations#traducciones.
+translating#traduciendo.
+translate#traducir.
+translates#traduce.
+translated#traducido.
+translatable#traducible.
+transit#tra/nsito.
+transition#transicio/n.
+transitions#transiciones.
+transients#transeu/ntes.
+transgress#pecar ( to sin).
+transgressions#pecados ( sins ).
+transgression#pecado (sin)transgresio/n.
+transgressed#peco/ ( sinned).
+transfusion#transfusio/n.
+transfusions#transfusiones.
+transform#transformar.
+transformation#transformacio/n.
+transfer#transferencia ( noun).
+transfers#transferencias ( noun).
+transferable#transferible.
+transcripts#transcripcio/n.
+transcribe#transcribir.
+transcontinental#transcontinental.
+transcend#trascender.
+transcends#trasciende.
+transcending#trascendiente.
+transcendent#trascendiente.
+transcendental#trascendental.
+transcendentally#trascendentalmente.
+transcendentalize#trascender.
+transcendentalizes#trasciende.
+transcendentalist#trascendentalista.
+transcendentalists#trascendentalistas.
+transcendentalism#trascendentalismo.
+transcendence#trascendencia.
+transcended#trascendio/.
+transatlantic#transatla/ntico.
+transaction#transaccio/n.
+transactions#transaccio/nes.
+tranquil#tranquilo.
+tranquilness#tranquilidad.
+tranquilly#tranquilamente.
+tranquillity#tranquilidad.
+tranquilize#tranquilizar.
+tranquilizes#tranquiliza.
+tranquilizer#tranquilizante.
+tranquilizers#tranquilizantes.
+tranquilized#tranquilo.
+tranquility#tranquilidad.
+tram#tram.
+tramp#puta ( whore ).
+tramcar#tram.
+trajectory#trayectoria.
+trajectories#trayectorias.
+trajection#trayectoria.
+traits#caracteri/sticas.
+traitor#traidor.
+traitors#traidores.
+traitorize#traicionar.
+traitoress#traidora.
+trait#caracteri/stica.
+train#tren ( noun) adiestrar ( military).
+trains#tre/nes.
+training#training center.
+training#adiestramiento.
+trainers#adiestradores.
+trainer#adiestrador ( military).
+train#el tren.
+trained#adiestrado ( military).
+tragic#tra/gico.
+tragicomic#tragico/mico.
+tragicomical#tragico/mico.
+tragicomedy#tragicomedia.
+tragedy#tragedia.
+tragedies#tragedias.
+traffic#tra/nsito.
+trafficking#traficando.
+trafficker#traficante.
+traffickers#traficantes.
+tradition#tradicio/n.
+traditions#tradiciones.
+traditional#tradicional.
+traditionally#tradicionalmente.
+traditionalists#tradicionalistas.
+traditionalistic#tradicionalista.
+traditionalism#tradicionalismo.
+trade#comercio, intercambiar ( to trade ).
+toys#juguetes.
+toy#juguete.
+toying#jugueteando.
+toy#el juguete.
+toyed#jugueteo/.
+toxin#toxina.
+toxic#to/xico.
+towns#pueblos.
+town#pueblo.
+townhouse#townhouse.
+town#el pueblo.
+towing#remolcando.
+tower#torre.
+towers#torres.
+towel#toalla.
+towels#toallas.
+towel#la toalla.
+towed#remolcado.
+toward#hacia.
+tournaments#campeonatos.
+tournament#campeonato.
+tourist#turista.
+tourists#turistas.
+tourists#guiri[Noun].
+tourist#racist[Adjective].
+touristic#turi/tico.
+tourist#guiri[Noun].
+tourism#turismo.
+toupee#peluca ( wig).
+touch#tocar.
+touchable#tocable.
+tote#portar.
+toted#porto/ ( carried ).
+total#suma.
+totals#sumas.
+totally#totalmente.
+totalization#total.
+totality#totalidad.
+totalitarian#totalitario, absoluto.
+totalitarianism#totalitarianismo.
+totalism#totalismo.
+torturing#torturando.
+torture#tortura.
+tortures#torturas.
+torturer#atormentador.
+tortured#torturado.
+tortoises#jicoteas.
+tortoise#jicotea.
+tortilla#tortilla ( omelet ).
+torticollis#torti/culis.
+torte#torta ( pie).
+torso#torso.
+torsos#torsos.
+torsion#torsio/n.
+torrid#to/rrido.
+torrent#torrente.
+torrents#torrentes.
+torrential#torrencioso.
+torrentially#torrencialmente.
+torpid#torpe.
+torpidly#torpemente.
+torpidity#torpidez.
+torpedo#torpedo.
+torpedos#torpedos.
+torpedoes#torpedos.
+torn#roto.
+tornado#tornado.
+tornados#tornados.
+tornadoes#tornados.
+torment#tormento.
+torments#tormentos.
+tormentor#atormentador.
+tormenting#atormentando.
+tormenters#atormentadores.
+tormenter#atormentador.
+tormented#atormentado.
+torero#torero, toreador.
+toreador#torero, toreador.
+torches#antorchas.
+torch#antorcha.
+topography#topografi/a.
+topographic#topogra/fico.
+topographically#topogra/ficamente.
+topographer#topo/grafo.
+topic#tema.
+topics#temas.
+topiary#topiario.
+topcoats#sobreabrigos.
+topcoat#sobreabrigo.
+top#cima.
+topaz#topacio.
+to#para.
+toot#pitar.
+toothsome#dentudo.
+toothpicks#modadientes.
+toothpick#modadiente.
+toothpaste#pasta de dientes.
+toothless#sin dientes.
+tooth#el diente.
+tooth#diente.
+toothbrushes#cepillos de diente.
+toothbrush#cepillo de dientes.
+toothaches#dolores de muela.
+toothache#dolor de muelas.
+tooted#pito/.
+too#tambie/n.
+tools#herramientas.
+tool#herramienta.
+toolboxes#cajas de herramientas.
+toolbox#caja de herramientas.
+took#tomo/.
+too#demasiado.
+ton#tonelada.
+tons#toneladas.
+tonsil#ami/gdalas.
+tonight#e/sta noche.
+tongues#lenguas.
+tongueless#sin lengua.
+tongue#lengua.
+tongue#la lengua.
+tone#tono.
+tones#tonos.
+tonality#tonalidad.
+tonalities#tonalidades.
+to#my love.
+tomorrows#man~anas.
+tomorrow#man~ana.
+tomes#libros.
+tome#libro ( book).
+tomb#tumba.
+tombs#tumbas.
+tombstone#tumba.
+tombstones#tumbas.
+tomboy#marimacha.
+tomato#tomate.
+tomatoes#tomates.
+tolerating#tolerando.
+tolerate#tolerar.
+tolerates#tolera.
+tolerated#tolero/.
+tolerant#tolerante.
+tolerantly#con tolerancia.
+tolerance#tolerancia.
+tolerably#tolerablemente.
+tolerable#tolerable.
+tolerability#tolerancia.
+token#peaje.
+toilsomely#laboriosamente.
+toil#laborar ( as in to work).
+toilets#inodoros.
+toilet#retrate.
+toilet#inodoro.
+toilet#escusado.
+toiled#laboro.
+together#juntos.
+toe#dedo del pie.
+today#hoy.
+tobacco#tabaco.
+tobacconist#tabaconero.
+toasts#brindi/s(wine) or tostadas(bread).
+toast#la tostada.
+toaster#tostadora ( toaster for bread).
+toasters#tostadoras.
+toaster#el tostador.
+toasted#tostado.
+toasted#brindo/ ( wine) or tosto/ ( bread).
+toast#bri/ndis ( wine) or tostar ( as bread).
+toads#batracios.
+toad#batracio ( Animal).
+titular#titular.
+tittie#tetica ( as in titties, slang).
+tit#teta ( as in breast,slang).
+tits#tetas ( as in breasts ,slang).
+title#ti/tulo.
+titles#ti/tulos.
+tithes#diezmos.
+tithe#diezmar.
+titans#titanes.
+tissue#tejido.
+tisane#tisana.
+tiresome#canso/n.
+tires#llantas ( car tires).
+tire#llanta(car tire)cansar(to tire).
+tireless#sin cansancio.
+tirelessness#descansancio.
+tirelessly#descansadamente.
+tire#la llanta.
+tiredness#cansancio.
+tiredly#cansadamente.
+tired#cansado.
+tiptoe#de puntillas.
+tips#propinas ( gratuities ) consejos ( advice).
+tip#propina ( gratuity) consejo ( advice).
+tiny#pequen~o.
+tinware#lateri/a.
+tint#ten~ir ( to tint).
+tints#tintes.
+tinted#ten~ido.
+tins#latas.
+tin#lata.
+tinkle#orinar ( to urinate).
+tingles#erizos.
+tingle#erizar (to tingle).
+timpani#ti/mpano.
+timothy#Timoteo.
+timid#ti/mido.
+timidness#timidez.
+timidly#ti/midamente.
+timidity#timidez.
+time#hora.
+time#el tiempo.
+tiles#lozas.
+tile#mosaico.
+tile#loza.
+tiled#enlozado.
+tilde#tilde.
+tigress#tigresa.
+tightwad#tacan~o.
+tightwads#tacan~os.
+tightly#apretadamente.
+tighten#apretar.
+tight#apretado.
+tiger#tigre.
+tigers#tigres.
+tiger#el tigre.
+ties#corbatas ( as in dress tie ).
+tie#atar.
+tides#mareas ( as in weather).
+tide#marea ( as in weather ).
+tic#tic.
+ticklish#cosquilloso.
+tickle#hacer cosquillas.
+ticket#tique/ ( theater).
+tickets#tique/s ( theater).
+ticket#el billete.
+tiara#tiara.
+thyroid#tiroide.
+thyroids#tiroides.
+Thursday#el jueves.
+thunder#trueno.
+thunderstorm#la tronada.
+thunder#el trueno.
+thunderbolts#rela/mpagos.
+thunderbolt#rel/ampago.
+thumbtack#la chinche.
+thumb#el pulgar.
+thugs#malandros.
+thru#atra/vez.
+throw#tirar.
+throats	#gargantas.
+throat#la garganta.
+throat#garganta.
+threw#tiro/.
+three#tres.
+threesome#tri/o.
+threefold#tres veces.
+threats#amenazas.
+threatens#amenaza.
+threateningly#amenazadamente.
+threatening#amenazando.
+threatener#amenazador.
+threatened#amenazo/.
+threaten#amenazar.
+threat#amenaza.
+threads#hilos.
+thread#hilo.
+thread#el hilo.
+threaded#hilvanar.
+thousands#miles.
+thousand#mil.
+thousandfold#mil veces.
+thoughts#pensamientos.
+thought#pensamiento.
+thoughtfully#atentamente.
+thoughtful#atento.
+though#aunque.
+those#aquellos.
+thorny#espinoso.
+thorns#espinas.
+this#e/sto.
+this#esta.
+thirty#trenta.
+thirty#treinta.
+thirtieth#trige/simo.
+thirties#los trenta.
+thirteen#trece.
+thirsty#sediento.
+thirst#sed.
+thirst#la sed.
+third#tercero.
+thirds#tercios.
+thirdly#tercera.
+thirdhand#terceramano.
+thinks#piensa.
+think#pensar ( to think).
+think#pensar.
+thinking#pensando.
+thinkers#pensadores.
+thinker#pensador.
+things#cosas.
+thing#la cosa.
+thingamajigs#cachivaches.
+thingamajig#cachivache.
+aborally#de manera aboral[Adverb].
+aboral#aboral[Adjective].
+abominators#abominadores.
+abominator#abominador.
+ablaze#ardiente[Adjective].
+ablaze#ardiendo.
+ablaut#quesontes.
+ablative#ablativo.
+ablation#extirpaci�n.
+ablation#ablacio/n.
+abjectly#abyectamente.
+abjections#abyecciones[Noun].
+abducing#Abductor.
+abducent#separador.
+abducentes#abducentes.
+abducent#Abductor.
+abducens#separador.
+abducens#m�sculo abductor.
+abduced#abducido.
+thin#delgado ( person).
+thin#delgado.
+thimbles#dedales (sewing).
+thimble#dedal ( sewing).
+thighs#muslos.
+thigh#muslo.
+thigh#el muslo.
+thieves#ladrones.
+thief#ladro/n.
+thick#grueso.
+thick#espeso.
+they#ellos.
+thespians#artistas.
+thespian#artista.
+these#e/stos.
+thesaurus#tesauro.
+there'll#habra/.
+therein#Adjunto.
+theorems#teoremas.
+theology#teologi/a.
+theologic#teolo/gico.
+theological#teolo/gico[Adjective].
+theologically#teolo/gicamente.
+theologian#teo/logo.
+theologians#teo/logos.
+theocratic#teocra/tico[Adjective].
+theocracy#teocracia[Noun].
+then#entonces.
+thenceforth#desde entonces[Adverb].
+thenceforth#de alli/ en adelante[Adverb].
+thence#desde alli/[Adverb].
+thence#de alli/[Adverb].
+themselves#ellos mismos.
+theme#tema.
+themes#temas.
+them#ellos.
+thematic#tema/tica.
+thematically#tema/ticamente.
+theist#tei/sta.
+theism#tei/smo.
+their#su.
+theirs#sus.
+thefts#hurtos.
+theft#hurto.
+theft#el robo.
+theater#teatro.
+theaters#teatros.
+theater#el teatro.
+thawed#descongelado.
+thaw#descongelar ( to thaw).
+that#eso.
+that#ese[Adjective].
+that#esa[Adjective].
+thanks#gracias.
+thanksgiving#Accio/n de Gracias.
+thanklessness#malagradecimiento.
+thankless#malagradecido.
+thanklessly#malagradecidamnete.
+thankfulness#agradecimiento.
+thankfully#agradecidamente.
+thankful#agradecido.
+thanked#agradecio/.
+thank#dar gracias.
+thank#agradecer.
+text#texto.
+textbooks#manuales.
+textbook#libro de texto, manual.
+textbook#el texto.
+tetrafluoride#tetrafluo/ruro.
+tetracycline#tetraci/clina.
+tetanus#te/tano.
+tetanizing#tetanizacio/n.
+tetanize#tetaniza/r[Verb].
+tetanizes#tetani/za[Verb].
+tetanized#tetaniza/do.
+tetanization#tetanizacio/n.
+tetanic#teta/nico(a).
+tetanically#teta/nicamente[Adverb].
+testy#ho/sco[Adjective].
+testudo#testudo(one with a  big head).
+tests#exa/menes.
+testosterone#testo/sterona.
+testis#testi/culo.
+testings#prue/bas.
+testings#exa/menes.
+testing#proba/ndo[Verb].
+testing#examinando.
+testimony#testimonio.
+testimonies#testimonios.
+testimonial#testimonio.
+testimonials#testimonios.
+testimonializer#uno que da testimo/nio.
+testimonialize#dar testimonio.
+testify#testificar.
+testify#atestiguar.
+testified#testi/fico.
+testified#atestigua/do.
+testicular#testicular.
+testicle#testi/culo.
+testicles#testi/culos.
+testicles#huevos (vulg.).
+testicles#companeros.
+test#exa/men.
+test#el examen.
+tested#examino/.
+testament#testamento  ( will, as in death).
+testaments#testamentos.
+testa#cabeza ( head).
+terror#terror.
+terrors#terrores.
+terrorizes#aterrar.
+terrorizer#terrorista.
+terrorizers#terroristas.
+terrorized#aterrado.
+terrorize#aterrar.
+terrorist#terrorista.
+terrorists#terroristas.
+terrorism#terrorismo.
+territory#territorio.
+territories#territorios.
+terrify#terroriza.
+terrifying#espeleznante.
+terrifying#aterrante.
+terrifies#terroriza.
+terrified#terrorizado.
+terrific#magni/fico.
+terribly#terriblemente.
+terrible#terrible.
+terrestrial#terre/stre.
+terreplein#terraple/n.
+terrazzo#terraza (terrazzo,terrace ).
+terrarium#terrario.
+terraqueous#terra/queo.
+terrain#terrun~o.
+terrains#terrun~os.
+terrace#terraza.
+terrace#la terraza.
+term#te/rmino.
+terms#te/rminos.
+termite#comeje/n, termitas.
+teriyaki#teriyaki.
+tergiversator#tergiversador.
+tergiversation#tergiversio/n.
+tergiversate#tergiversar.
+tequila#tequila.
+tenths#decimos.
+tenth#de/cimo.
+tent#carpa.
+tentacle#tenta/culo.
+tentacles#tenta/culos.
+tension#tensio/n.
+tens#de/cimos.
+tense#tenso.
+tennist#tenista.
+tennis#te/nis.
+tenebrous#tenebroso.
+tennis#eltenis.
+ten#diez.
+tender#tierno ( as in gentle).
+tender#tierno.
+tendency#tendencia.
+tendencies#tendencias.
+tend#cuidar.
+tenants#inquilinos.
+tenant#inquilino.
+tenacity#tenacidad.
+tenacious#tenaz.
+tenaciousness#tenacidad.
+tenaciously#tenazmente.
+tempt#tentar ( to tempt).
+temp#temporario.
+tempted#tento/.
+temptation#tentacio/n.
+temptations#tentaciones.
+temple#el templo.
+tempestuous#tempestuosidad.
+tempest#tempestad.
+temper#genio.
+tempered#templado.
+temperature#temperatura.
+temperatures#temperaturas.
+temperature#la temperatura.
+temperaments#genios, temperamentos.
+temperament#genio, temperamento.
+temperamental#temperamental.
+temperamentally#temperamentalmente.
+temerity#temor.
+temerarious#temerario.
+temblor#temblor ( as in earthquake).
+telly#televisio/n ( TV).
+tellers#cajeros (cashiers).
+teller#cajero ( cashier).
+tell#contar.
+televisual#televisual.
+televisor#televisor, televisio/n.
+televisors#televisores, televisiones.
+television#televisio/n.
+televisions#tele/visiones.
+televise#televisar.
+televiewer#televidente.
+telethon#teleto/n.
+telescope#telescopio.
+telescopes#telescopios.
+teleprompter#telepro/mpter.
+teleprinter#teleimpresora.
+telephoto#telefoto.
+telephotography#telefotografi/a.
+telephotographic#telefotogra/ficamente.
+telephony#telefoni/a.
+telephone#tele/fono.
+telephones#tele/fonos.
+telephoned#telefoneo/.
+telepathy#telepati/a.
+telepathic#telepa/tico.
+telegram#telegrama.
+telegrams#telegramas.
+telefilm#telefilm.
+telefacsimile#telefacsi/mile.
+telecourse#telecurso.
+teleconferencing#teleconfiriendo.
+teleconference#telecomferencia.
+teleconferences#teleconferencias.
+teleconferenced#teleconferencio/.
+telecommunication#telecomunicacio/n.
+telecommunications#tele/comunicaciones.
+telecommunicate#telecomunicar.
+teeth#dientes.
+teeter#tambalear.
+teens#adolescentes.
+teenagers#adolescentes.
+teenager#adolescente.
+teen#adolescente.
+teem#pulular.
+tedious#tedioso.
+tediously#tediosamente.
+technostructure#tecnoe/structura.
+technology#tecnologi/a.
+technologies#tecnologi/as.
+technologic#tecnolo/gico.
+technologically#tecnolo/gicamente.
+technocrat#tecno/crata.
+technocracy#tecnocracia.
+technique#te/cnica.
+techniques#te/cnicas.
+technic#te/cnico.
+technical#te/cnico.
+technicality#tecnicalidad.
+technicalities#tecnicalidades.
+teat#teta[Noun].
+teats#tetas[Noun].
+teatro#teatro ( theater ).
+tea#te/.
+teas#te/s.
+teaspoonsful#cucharaditas.
+teaspoons#cucharillas[Noun].
+teaspoons#cucharaditas.
+teaspoon#la cucharita.
+teaspoonfuls#cucharaditas.
+teaspoonful#cucharadita.
+teaspoon#cucharita.
+teaspoon#cucharilla[Noun].
+teasingly#burlonmente.
+teases#molesta[Verb].
+teases#importuna[Verb].
+teases#embroma[Verb].
+tease#molestar[Verb].
+tease#importunar[Verb].
+tease#embromar[Verb].
+tease#burlarse ( to tease ( someone ).
+tears#rasga[Verb].
+tears#la/grimas[Noun].
+tears#desgarra[Verb].
+tear#romper.
+tear#rasgar[Verb].
+tear#rajar.
+tear#la/grima[Noun].
+tearjerker#arrancala/grimas.
+teargas#gas lacrimo/geno[Noun].
+teargas#gas lacrimante[Noun].
+teardrop#la/grima[Noun].
+tearful#lloroso[Adjective].
+teardrop#lagrima.
+tame#manso.
+tameless#indomable.
+tame#domar ( to tame as in animals).
+tamed#domado.
+tameable#domable.
+tamarind#tamarindo ( the fruit).
+tamale#tamal.
+talon#talo/n.
+talons#talones.
+taller#ma/s alto.
+tall#alto.
+talks#charlas ( speeches).
+talking#hablando.
+talk#hablar.
+talkers#habladores.
+talker#hablador.
+talked#hablo/.
+talkative#hablador ( noun).
+talisman#talisma/n.
+tales#cuentos  ( stories).
+zone#faja[Noun].
+zodiac#zodiaco[Noun].
+zodiacal#zodiacal.
+zither#ci/tara[Noun].
+zinc#cinc[Noun].
+zigzag#zigzag.
+zest#la vivacidad[Noun].
+zest#deleite[Noun].
+zeros#los ceros[Noun].
+zeroes#los ceros[Noun].
+zero#cero.
+zephyr#ce/firo[Noun].
+talent#talento.
+talents#talentos.
+talented#talentoso.
+talcum#talco.
+talc#talco.
+take#tomar ( verb).
+take#tomar.
+tact#tacto,tino[Noun].
+tactless#torpe,descortez[Adjective].
+tactlessness#torpeza,descortec'ia[Noun].
+tactlessly#torpemente,descortezmente[Adverb].
+tactile#tactil,tangible[Adjective].
+tactilely#tactilmente,sensiblemente[Adverb].
+tactic#ta/ctica.
+tactics#ta/cticas.
+tactician#t'actico[Noun].
+tactical#t�ctico[Adjective].
+tactically#t'acticamente[Adverb].
+tactfulness#consideraci'on,discreci'on[Noun].
+tactfully#discretamente, diplom�ticamente.
+tactful#con diplomacia
+tact#diplomacia.
+tacos#mexican sandwiches.
+taco#mexican sandwich.
+tacky#pegajoso[Adjective].
+tacks#tachuelas[Noun].
+tack#tachuela[Noun].
+tackle#equipo,parafernalia,provisiones[Noun].
+tackled#equipado,preparado,provisto[Adjective].
+tacking#clavar tachuelas.
+tackily#abandonado[Adjective].
+tackier#pegajoso[Adjective].
+tacked#sujeto con tachuelas[Noun].
+taciturn#taciturno, taciturna.
+tacit#ta/cito, ta/cita.
+tacitly#ta/citamente.
+tachyons#taquio/n.
+tachygraphy#tquigrafia[Noun].
+tachygraphic#taquigr�fico[Adjective].
+tachycardia#taquicardia.
+tachygraphical#tquigr�fica[Noun].
+tachometer#taco/metro.
+tachometers#taco/metros.
+tabulator#tabulador, tabuladora.
+tabulators#tabuladores, tabuladoras.
+tabulate#tabular.
+tabulated#tabulado, tabulada.
+tabular#tabular.
+tabularization#tabularizacio/n.
+tab#teddy.
+tabs#orejas, lenguetas, etiquetas[Noun].
+taboo#tabu/.
+taboos#tabu/es.
+tabloids#escenarios[Noun].
+tabloid#escenario.
+tableware#cubiertos, utensilios de mesa.
+tablet#tabletilla.
+tablets#tabletillas.
+tabletops#mesas.
+tabletop#mesa.
+tablespoonsful#cucharada.
+tablespoons#cucharas.
+tablespoon#la cuchara grande.
+tablespoonfuls#cucharadas.
+tablespoonful#cucharada.
+tablespoon#cuchara.
+tables#mesas.
+table#mesa[Noun].
+table#mesa.
+table#la mesa.
+tablecloth#mantel[Noun].
+tablecloths#manteles.
+tablecloth#mantel.
+tabernacle#taberna/culo.
+backlash#contragolpe.
+backlash#barra invertida (\).
+back#la espalda.
+backing#APOYO[Noun].
+backhouse#letrina.
+backhand#reves.
+backhanded#ambiguo.
+back#(hacia) atra/s.
+backgrounds#antecedentes.
+background#fondo.
+background#de fondo[Adjective].
+backgammon#chaquete.
+backfire#petardeo.
+back#espalda (noun).
+backers#RESPALDADORES[Noun].
+backer#RESPALDADOR[Noun].
+backed#RESPALDADO[Adjective].
+backdrop#telon.
+backdrops#TELONES[Noun].
+backbones#espinazos.
+backbones#espinazo.
+backbone#lomo.
+backbone#espinazo.
+backbiter#el difamador[Noun].
+backbite#difamar[Verb].
+backaches#dolores de espalda.
+bacillus#bacilo.
+backache#dolor de espalda.
+bacilli#bacilos.
+bacillary#forma bacilar (de bacilo).
+bacillar#bacilar.
+bachelors#solteros.
+bachelor#soltero.
+bachelors#bachilleres.
+babysit#cuidar.
+babyish#infantil[Adjective].
+babying#ninando.
+babyhood#ni�ez[Noun].
+babyhood#nin~ez.
+babyhood#ninez.
+baby#criatura.
+baby#bebe/.
+babushka#la babushka (sombrero ruso)[Noun].
+tablecloth#la mantel.
+tabernacles#taberna/culos.
+tabac#tabaco[Noun].
+system#sistema[Noun].
+synarthrosis#sinartrosis[Noun].
+takeout#para llevar ( as in Take out food ).
+takeoff#despegar ( aviation).
+taken#tomado.
+tails#colas.
+tailors#sastres ( noun).
+tailor#sastre ( noun).
+tail#el rabio.
+tail#cola.
+tagged#etiquetado[Adjective].
+tag#etiqueta,r'otulo[Noun].
+tagalong#sucesi'on,repetici'on[Noun].
+taffy#caramelo (de az'ucar fundida)[Noun].
+taffies#caramelos (de az'ucar fundida)[Noun].
+taffetized#entafetado[Adjective].
+taffeta#tafeta[Noun].
+taffeta#n.
+taeniasis#infecci'on con tenia (gusano plano)[Noun].
+tadpoles#renacuajos[Noun].
+tadpole#renacuajo[Noun].
+tad#ni~no,nene[Noun].
+synapse#sinapsis[Noun].
+synagogue#sinagoga[Noun].
+synagog#sinagoga[Noun].
+symptom#si/ntoma[Noun].
+symptomatic#sintoma/tico.
+symposiums#simposio[Noun].
+symposia#simposio[Noun].
+symphysis#sinfisi/s[Noun].
+symphony#sinfoni/a[Noun].
+symphonies#sinfoni/as[Noun].
+symphonic#sinfo/nico[Adjective].
+swim#nadar.
+sweet#dulce.
+swan#cisne.
+swamp#el pantano.
+surprise#la sorpresa.
+surprised#sorprendido.
+surgeon#el cirujano.
+surfboard#tabla de surf[Noun].
+sure#seguro.
+supper#la cena.
+sun#el sol.
+Sunday#el domingo.
+summer#el verano.
+suit#el traje.
+suitcase#la maleta.
+suggest#sugerir.
+suffer#sufrir.
+suede#el ante.
+suddenly#de repente.
+suck#chupas.
+success#exito[Noun].
+successes#exitos[Noun].
+successes#desarrollos.
+success#desarrollo[Noun].
+suburbs#las afueras[Noun].
+subject#asignatura[Noun].
+stupid#menso, bobo, est�pido, torpe, necio[Adjective].
+stupidly#est�pidez, torpeza, necedad[Adverb].
+studying#estudiando.
+study#estudiar.
+stud#tach�n.
+students#estudiates.
+students#alumnos.
+student#el estudiante.
+student#estudiante.
+student#alumno.
+stuck#picar, punzar.
+stuccowork#estucado[Noun].
+stucco#estuco[Noun].
+stub#tacrozo, fragmento[Noun].
+stubs#trozos, fragmentos[Noun].
+stubby#lleno de tocones[Adjective].
+stubborn#terco.
+stubbornness#obstinaci�n[Noun].
+stubbly#lleno de rastrojo, erizado; cerdoso[Adjective].
+stubble#rastrojo[Noun].
+stubbing#desarraigar[Verb].
+stubbed#desarraigar[Verb].
+strongly#fuertemente.
+strong#fuerte.
+stroll#andar[Verb].
+strike#huelga[Noun].
+strike#golpear[Verb].
+strikebreaker#rompahuelgas[Noun].
+stress#el estr�s, la presi�n[Noun].
+streets#las calles.
+street#la calle.
+street#corner	la esquina.
+straw#la paja.
+strawberry#la fresa.
+strategy#estrategia[Noun].
+strategic#estrat�gico[Adjective].
+strategically#estrat�gicamente[Adverb].
+stranger#forastero[Noun].
+stranger#extra�o[Noun].
+strange#raro[Adjective].
+strangely#extra�amente.
+strange#extra�o[Adjective].
+stranded#desamparado[Adjective].
+straighten#enderezarse [intransitive][Verb].
+straight#derecho[Adjective].
+stove#la estufa.
+story#el cuento.
+storybook#el libro de cuentos[Noun].
+storm#la tormenta.
+store#la tienda.
+store#almacenar[Verb].
+stoplight#la sema/fora[Noun].
+stop#pararse.
+stop#detenerse[Verb].
+stop#dejar de (to stop doing something)[Verb].
+stone#la piedra.
+stomach#el esto/mago[Noun].
+stockings#las medias[Noun].
+stocking#la media.
+stock#acciones[Noun].
+stereotype#esterotipo[Noun].
+stereotropism#estereotropismo[Adjective].
+stereophotography#estereofotografia[Noun].
+stereophotographic#estereofotografico[Adjective].
+stereophony#estereofonia[Noun].
+stereophonic#estereofonico[Adjective].
+stereophonically#estereofonicamente[Adverb].
+stereoisomeric#estereoisomerico[Adjective].
+stereoisomer#estereoisomero[Noun].
+stereo#estereo[Adjective].
+stereochemists#estereoquimicos[Noun].
+stereochemistry#estereoquimica[Noun].
+stereochemist#estereoquimico[Adjective].
+stereochemical#estereoquimico[Adjective].
+stepwise#progresivo[Adjective].
+steelworker#acerero, trabajador del acero.
+steelwork#aceri/a, fabricacio/n de acero.
+steels#aceros.
+steelmaker#acerero, fabricante de acero.
+steel#el acero.
+steel#acero.
+steam#el vapor.
+stealth#not sure.
+stealth#don't know.
+steal#take.
+steals#takes.
+steals#grabs.
+steal#robar.
+stealing#taking.
+stealing#grabbing.
+steal#grab.
+stealer#taker.
+stealer#grabber.
+steaks#things.
+steaks#items.
+steak#meat.
+steak#el biftec.
+steak#beef.
+stay#quedar.
+stature#altura.
+statues#estatuas.
+statue#la estatua.
+statue#estatua.
+statistics#estadi/stica.
+station#estacio/n.
+stationery#papel.
+star#la estrella.
+stamp#el sello[Noun].
+stairway#la escalera.
+staircase#la escalera[Noun].
+stain#la mancha.
+squid#calamar[Noun].
+square#plaza[Noun].
+square#el cuadro.
+square#cuadrado[Noun].
+squander#malgastar, derrochar[Verb].
+squandering#despilfarrando[Verb].
+squanderer#despilfarrador[Noun].
+squandered#malgastado, derrochado[Verb].
+spy#espiar[Verb].
+spuriously#espuriamente[Adverb].
+spurious#espurio[Noun].
+spud#patata (slang).
+sprinter#velocista[Noun].
+spring#saltar[Verb].
+spring#muelle[Noun].
+spring#la primavera.
+spring#fuente[Noun].
+sports#los deportes[Noun].
+spouse#sposo, esposa[Noun].
+sport#deporte[Noun].
+spoon#la cuchara.
+sponge#la esponja.
+spoken#hablado.
+spinach#la espinaca.
+spider#arana[Noun].
+spheres#esferos[Noun].
+sphere#esfero[Noun].
+spend#gastar.
+spells#los hechizos.
+spell#el hechizo, el encanto[Noun].
+speed#la velocidad.
+speechless#sin habla[Adjective].
+speech#discurso[Noun].
+spectacles#gafas[Noun].
+spectacled#que lleva gafas[Adjective].
+specs#las gafas (de "spectacles")[Noun].
+special#especial.
+speak#hablar.
+speakeasy#un bar prohibido.
+spark#Chisme.
+spareribs#Costillas.
+south#el sur.
+sour#agrio.
+soup#la sopa.
+soulful#conmovedor[Adjective].
+soul#alma[Noun].
+sorry#siento.
+sore#dolorido.
+soon#pronto[Adverb].
+son#el hijo.
+sometimes#a veces.
+something#algo.
+someone#alguien[Pronoun].
+somebody#alguien.
+soldier#el soldado.
+softwares#programas.
+software#programa.
+soft#blando.
+sofa#el sofa/[Noun].
+so#de modo que, asi� que[Conjunction].
+society#sociedad[Noun].
+soccer#f&uacute;tbol.
+soaked#empapado[Adjective].
+snug#acogedor[Adjective].
+snow#nevar.
+snow#la nieve.
+snot#moco.
+snorkelear#to snorkel.
+snore#roncar.
+sneeze#estornudar.
+snag#un problema, un inconveniente[Noun].
+snack#tomar un aperitivo, picar[Verb].
+snacks#aperitivos, tentempie�, refrigerio[Noun].
+smooth#liso.
+smoke#fumar.
+smoke#el humo.
+smile#la sonrisa.
+smell#oler.
+smash#golpear[Verb].
+smashed#golpeado.
+smart#majo[Adjective].
+small#small.
+small#pequen~o[Adjective].
+smallest#menor[Adjective].
+small#chiquito[Adjective].
+smaller#menor[Adjective].
+small#chaparro[Adjective].
+small#bajo[Adjective].
+slowly#lentamente.
+slow#lento.
+slower#mas despacio[Adverb].
+slice#rebanar.
+sleeve#la manga.
+sleeping#durmiendo.
+sleep#dormir.
+sled#el trineo.
+sky#el cielo.
+skirt#la falda.
+skinny#flaco.
+skin#la piel.
+ski#esquiar.
+skate#patinar.
+sixty#sesenta.
+six#seis.
+sit#sentarse.
+sister#la hermana.
+sister#cu�ada.
+singsong#mono/tono.
+single#solo[Adjective].
+singlehanded#sin ayuda[Adjective].
+singer#el cantor.
+singe#chamuscar[Verb].
+sing#cantar.
+sinful#pecaminoso[Adjective].
+sinew#tendo/n[Noun].
+sinecure#sinecura[Noun].
+sincerity#sinceridad[Noun].
+sincere#sincero[Adjective].
+sincerely#sinceramente.
+since#despue/s de[Preposition].
+simple#sencillo.
+similar#semejante.
+silver#la plata.
+silly#tonto.
+silk#la seda.
+silence#el silencio.
+sign#firmar.
+sign#el letrero.
+sidewalk#la acera.
+sidewalk#acera, banqueta.
+side#el lado.
+sick#enfermo.
+shut#cerrar[Verb].
+shrink#encoger.
+shrimp#camarone[Noun].
+show#mostrar.
+shower#la ducha.
+shovels#palas[Noun].
+shovel#pala[Noun].
+shout#gritar.
+shoulder#el hombro.
+short#corto.
+shop#tienda[Noun].
+shoe#zapato.
+shoes#los zapatos.
+shoe#el zapato.
+shiver#tiritar.
+shit#mierda, f. [Noun].
+shirt#la camisa.
+ship#nave, barco(a)[Noun].
+ship#el vapor.
+shine#brillar.
+shelf#el estante.
+sheep#la oveja.
+she#ella.
+shave#afeitar.
+sharp#agudo.
+shape#la forma.
+sexual#sexual.
+sex#tener sexo[Verb].
+sexless#sin sexo[Adjective].
+sex#el sexo[Noun].
+sew#coser.
+several#varios.
+seventy#setenta.
+seven#siete.
+serve#servir.
+server#server.
+serious#serio.
+September#septiembre.
+sentence#la frase.
+sensibly#razonablemente.
+sensible#razonable.
+send#mandar.
+sell#vender.
+select#escoger[Verb].
+seldom#raramente[Adverb].
+see#ver.
+seize#agarrar[Verb].
+seesaw#balanci/n.
+seem#parecer.
+seek#buscar.
+seed#la semilla.
+secure#seguro[Adjective].
+secret#el secreto.
+secretary#la secretaria.
+second#el segundo.
+seat#el asiento.
+seated#sentado.
+season#estaci\'on del a\~no (noun); condimentar (verb).
+seasoned#sazonado.
+seasonal#estacional.
+seas#mares.
+seaside#playa, costa.
+seasick#mareado.
+seashores#costas del mar.
+seashore#costa del mar.
+seashells#conchas marinas.
+seashell#concha marina.
+search#busqueda (noun); buscar (verb).
+seaquake#maremoto.
+seaports#puerto de mar.
+seamstress#modista.
+seamen#marineros.
+seam#costura.
+seaman#marinero.
+sealskin#piel de foca.
+seals#focas; sellos.
+seal#foca; sello.
+sealed#sellado.
+sealant#sellado.
+seahorse#hipocampo, caballo de mar.
+seagull#gaviota.
+seagulls#gaviotas.
+seafood#mariscos.
+seafloor#fondo del mar.
+sea#el mar.
+seacoasts#costas del mar.
+seacoast#costa del mar.
+seabird#ave marina.
+seabed#lecho marino.
+sculpture#la escultura.
+scuba#diving	buceo.
+screw#tornillo[Noun].
+screws#tornillos[Noun].
+screwdriver#el destornillador.
+screen#pantalla.
+scream#chillar.
+scrambled#revuelto.
+science#la ciencia.
+school#la escuela.
+schedule#el horario.
+scarlet#escarlata.
+scar#la cicatriz.
+scarf#la bufanda.
+scale#escala.
+sayings#dichos.
+saying#dicho.
+say#decir, digo.
+say#decir.
+save#ahorrar.
+sausage#salchicha[Noun].
+sausage#chorizo[Noun].
+saucer#el platillo.
+sauce#la salsa.
+satisfied#satisfecho.
+sarcastic#sarcastico[Adjective].
+sarcasm#sarcasmo[Noun].
+sandwich#el bocadillo.
+sand#la arena.
+sample#muestra[Noun].
+same#mismo.
+salve#ungu.ento[Noun].
+salvation#salvacio/n.
+salute#saludar.
+salutations#saludos[Noun].
+salty#salado.
+salt#la sal.
+salsa#salsa[Noun].
+saliva#saliva.
+sale#venta[Noun].
+saleswomen#dependientas.
+saleswoman#dependienta.
+salesperson#dependiente.
+salespeople#dependientes.
+salesmen#dependientes.
+salesman#el vendedor.
+saleslady#dependienta.
+salesclerk#dependiente[Noun].
+sale#la liquidacion[Noun].
+salary#el sueldo.
+salad#la ensalada.
+salads#ensaladas[Noun].
+saint#santo[Noun].
+saints#santos[Noun].
+saint#san[Noun].
+sail#vela[Noun].
+sailor#el marinero.
+saga#saga[Noun].
+sagacity#sagacidad[Noun].
+sagacious#sagaz[Adjective].
+sagaciously#sagazmente[Adverb].
+saffron#azafran[Noun].
+safety#seguridad[Noun].
+safe#salvo.
+safari#safari.
+sad#triste.
+sadomasochist#sadomasoquista[Adjective].
+sadomasochist#sadomasoquista.
+sadomasochistic#sadomasoquista[Noun].
+sadomasochism#sadomasoquismo[Noun].
+sadness#tristeza[Noun].
+sadly#tristemente[Adverb].
+sadist#sadista[Noun].
+sadist#sa/dico[Adjective].
+sadism#sadismo[Noun].
+saddle#silla de montar [Noun].
+saddle#montura[Noun].
+sadden#entristecer[Verb].
+sacristan#sacristan[Noun].
+sacrilegious#sacrilego[Adjective].
+sacrilege#sacrilegio[Noun].
+sacrifices#dewayne.
+sacrifice#sacrificio[Noun].
+sacrifice#sacrificar.
+sacrificer#quien realiza sacrificios[Noun].
+sacrificed#sacrificado.
+sacred#sagrado[Noun].
+sacraments#sacramentos.
+sack#saco[Noun].
+sacerdotal#sacerdotal[Adjective].
+saccharose#sacarosa[Noun].
+saccharin#sacarina[Noun].
+saboteur#saboteador[Noun].
+sabotaging#saboteando[Verb].
+sabotages#sabotajes[Noun].
+sabotage#sabotaje[Noun].
+sabotaged#saboteado[Verb].
+sabbat#sa/bado[Noun].
+sabbatic#saba/tico[Adjective].
+sabbatical#saba/tico[Adjective].
+sabbath#sa/bado[Noun].
+rut#rut.
+rust#el moho.
+run#correr.
+rumor#el rumor.
+rum#el ron.
+rumbled#retumbado.
+rumba#rumba[Noun].
+rulings#fallos; decisiones de...[Noun].
+ruling#reglando[Verb].
+rules#reglas[Noun].
+rulers#gobernantes[Noun].
+ruler#la regla.
+rule#la regla.
+ruled#reglado[Verb].
+ruins#ruinas[Noun].
+ruin#ruina; bancarrota.
+ruined#ruinado; bancarrotado[Verb].
+ruinations#ruinaciones[Noun].
+ruination#ruinacion[Noun].
+ruinate#destruir; ruinar[Noun].
+rug#tapete.
+rugs#tapetes.
+rude#rudo.
+rub#frotar.
+rubber#la goma.
+routing#enrutamiento.
+round#redondo.
+rotten#podrido.
+rose#la rosa.
+rope#la cuerda.
+rooster#el gallo.
+rooms#salas.
+room#sala.
+room#el cuarto.
+roof#el techo.
+romantic#romantico[Adjective].
+rollers#rodillos.
+roller#rodillo.
+road#el camino.
+r#net(la red)[Noun].
+risk#riesgo[Noun].
+rise#subir.
+ripe#maduro.
+ringing#sonando.
+ring#el anillo.
+rim#llanta.
+riming#rimando.
+rime#rima.
+right#verdad[Adjective].
+right#derecha.
+ride#montar[Verb].
+rich#rico.
+rice#el arroz.
+rice#arroz.
+rib#la costilla.
+review#el repaso.
+return#volver.
+return#regresar[Verb].
+result#la resulta.
+rest#descansar.
+restaurant#el restaurante.
+resentment#resentimiento[Noun].
+respect#respetar.
+request#pedir.
+reply#contestar.
+repair#reparar.
+repeat#repetir.
+rent#el alquiler.
+remove#remover.
+remember#recordar.
+relax#relajar.
+regular#regular.
+regret#sentir.
+refuse#rehusar.
+refrigerator#la nevera.
+red#rojo.
+recycle#reciclar[Verb].
+reconciliation#reconciliacio/n.
+reconcile#reconciliar[Verb].
+recommend#recomendar.
+recommended#recomendado[Adjective].
+recommendation#recomendado.
+recommendation#recomendacio/n[Noun].
+recognize#reconocer.
+realistic#vivo[Adjective].
+realistic#realista[Adjective].
+realism#realismo[Noun].
+ready#propenso[Adjective].
+ready#preparado[Adjective].
+ready#listo.
+reads#lee[Verb].
+reads#indica[Verb].
+reads#estudia[Verb].
+readouts#indicaciones[Noun].
+read#leer.
+readout#indicacio/n[Noun].
+readjusts#reajusta[Verb].
+readjust#arregla de nuevo[Verb].
+readjusts#ajusta de nuevo[Verb].
+readjust#reajustar[Verb].
+readjustment#reajuste[Noun].
+readjustment#readaptacio/n[Noun].
+readjustment#nuevo arreglo[Noun].
+readjust#arreglar de nuevo[Verb].
+readjust#ajustar de nuevo[Verb].
+readings#lecturas[Noun].
+readings#indicaciones[Noun].
+reading#leyendo.
+reading#lectura[Noun].
+reading#indicacio/n[Noun].
+read#indicar[Verb].
+read#estudiar[Verb].
+readers#lectores[Noun].
+reader#libro de lectura[Noun].
+reader#lector[Noun].
+reach#alcanzar[Verb].
+reabsorption#reabsorci�n[Noun].
+reabsorb#reabsorber[Verb].
+razor#la navaja.
+rayon#ray�n[Noun].
+ray#irradiar[Verb].
+raw#crudo.
+rat#la rata[Noun].
+rations#las raciones[Noun].
+ration#racio/n.
+rather#(than) en vez de[Conjunction].
+rather#mejor que.
+raspberry#la frambuesa.
+rare#raro.
+raptor#el raptor[Noun].
+rap#tocar, golpear[Noun].
+rapid#ra/pido, ra/pida[Adjective].
+rapidly#rapidamente[Adjective].
+rape#violar[Verb].
+raped#violo/[Verb].
+rang#sono/[Verb].
+rank#(level) nivel[Noun].
+ran#corrio/[Verb].
+rancor#el rancor[Noun].
+ranch#la finca[Noun].
+raisins#las pasas, las pasas de uva[Noun].
+raisins#las pasas, las pasas de uva[Noun].
+raisin#la pasa de uva[Noun].
+raisin#la pasa de uva[Noun].
+raisin#la pasa.
+raise#subir[Verb].
+raise#(a child or animal) criar[Verb].
+rainy#lluvioso[Adjective].
+rainy#lluvioso[Adjective].
+rainstorm#el tormento de lluvia[Noun].
+rainstorm#el tormento de lluvia[Noun].
+rainsquall#chubascos[Noun].
+rains#las lluvias[Noun].
+rain#llover.
+rains#las lluvias[Noun].
+rain#la lluvia.
+raining#lloviendo[Verb].
+raining#lloviendo[Verb].
+rainfall#la lluvia[Noun].
+rainfall#la lluvia[Noun].
+rained#llovio/[Verb].
+rained#llovio/[Verb].
+raindrops#las gotas de lluvia[Noun].
+raindrops#las gotas de lluvia[Noun].
+raindrop#la gota de lluvia[Noun].
+raindrop#la gota de lluvia[Noun].
+raincoats#los impermeables[Noun].
+raincoats#los impermeables[Noun].
+raincoat#el impermeable.
+rainbows#los arcoirises[Noun].
+rainbows#los arcoirises[Noun].
+rainbow#el arcoiris[Noun].
+rainbow#el arcoiris[Noun].
+rails#las vi/as.
+rails#las vi/as.
+railroad#el ferrocarril.
+rail#(railroad) vi/a[Noun].
+railing#barandilla[Noun].
+rail#barandilla, pasamanos[Noun].
+raids#incursiones[Noun].
+raid#incursio/n[Noun].
+rag#trapo (piece of cloth)[Noun].
+rags#los trapos[Noun].
+ragman#trapero[Noun].
+ragged#desigual, mellado[Adjective].
+rage#rabia, furor[Noun].
+rafts#babas[Noun].
+rafter#viga[Noun].
+raft#baba[Noun].
+raffle#rifa, sorteo[Noun].
+radius#radio[Noun].
+radishes#rabanos.
+radish#rabano.
+radiotherapy#radioterapia[Noun].
+radios#radios[Noun].
+radiosensitivity#radiosensitividad[Noun].
+radiosensitive#radiosensitivo[Adjective].
+radioscopy#radioscop�a[Noun].
+radioscopic#radiosc�pico[Adjective].
+radiometry#radiometr�a[Noun].
+radiometric#radiom�trico[Adjective].
+absent#ausente;.
+absent#ausente.
+absences#ausencias.
+absence#ausencia[Noun].
+absence#ausencia; falta;distraccio/n.
+abscond#vi huir; fugarse.
+absconds#ocultarse, esconderse[Verb].
+absconding#fuga/ndose.
+abscond#escaparse[Verb].
+absconder#fugitivo, pr�fugo, desertor.
+absconded#oculto[Adjective].
+abscission#abscisio/n[Noun].
+abscissas#abcisas[Noun].
+abscissae#abcisa[Noun].
+abscissa#abscisa.
+abscised#cortado por abscisio/n[Adverb].
+abscise#abscisa.
+abscesses#abscesos[Noun].
+abscessed#abscesado[Adjective].
+abounds#abunda.
+abounding#abundando.
+abounded#abundo/.
+abound#abundar.
+aborts#abortos.
+abortiveness#calidad de  abortivo, infructuoso.
+radiometers#radiometros[Noun].
+radiometrically#radim�tricamente[Adverb].
+radiometer#radiometro[Noun].
+radiometeorograph#radiometeografo[Noun].
+radiolytic#radiol�tico[Adjective].
+radiolysis#radiolosis[Noun].
+radiology#radiologi/a[Noun].
+radio#la radio.
+radiography#radiografi/a[Noun].
+radiochlorine#radioclorina[Noun].
+radiochemistry#radioqu�mica[Noun].
+radiochemist#radioqu�mico[Noun].
+radiobroadcast#transmisi�n de radio[Noun].
+radiobroadcaster#transmitidor de radio[Noun].
+radiobiology#radiobiologia[Noun].
+radiobiologic#radiobiologico[Noun].
+radiobiologically#radiobiologicamente[Adverb].
+radioautograph#radioautografo[Noun].
+radioautography#radioautograf�a[Noun].
+radioautographic#radioautogr�fico[Noun].
+radioastronomy#radioastron�mico[Noun].
+radioactive#radioactivo[Adjective].
+radioactively#radioactivamente[Adverb].
+radii#radios (pl. of radius=radio)[Noun].
+radical#radical[Adjective].
+radically#radicalmente[Adverb].
+radiation#radiacio/n (f)[Noun].
+radiate#radiar, irradiar (heat) [Verb].
+radiantly#brillantemente.
+radiant#brillante, resplandeciente[Adjective].
+radians#radianes[Noun].
+radiance#brillantez (f), resplandor (m)[Noun].
+radars#radares[Noun].
+radar#radar[Noun].
+racquet#raqueta[Noun].
+rack#rejilla[Noun].
+racket#raqueta (for tennis)[Noun].
+racists#racista[Noun].
+racist#racista[Adjective].
+racism#racismo[Noun].
+racing#carreras[Noun].
+racial#racial[Adjective].
+racetrack#hipo/dromo[Noun].
+races#carreras[Noun].
+racehorses#caballos de carreras[Noun].
+racehorse#el caballo de carrera[Noun].
+racehorse#carrera de caballos[Noun].
+race#(ethnicity, etc.) la raza [Noun].
+raced#e/l competio/[Verb].
+racecourse#pista de carreras[Noun].
+race#carrera[Noun].
+raccoons#mapache[Noun].
+rabies#rabia[Noun].
+rabid#rabioso[Adjective].
+rabidly#rabiosamente[Adjective].
+rabble#canalla[Noun].
+rabbits#conejos[Noun].
+rabbit#el conejo.
+rabbi#rabino[Noun].
+rabbet#barbilla[Noun].
+quiet#quieto.
+quick#pronto.
+quickly#rapidamente[Adverb].
+question#la pregunta.
+queen#la reina.
+quantity#la cantidad.
+quality#lacalidad.
+qualified#condicional, limitado, con salvedades[Adjective].
+qualified#(competent) capacitado[Adjective].
+qualified#(certified) acreditado[Adjective].
+quake#temblor[Noun].
+quaint#pintoresco[Adjective].
+quake#tembla[Verb].
+quaintness#cara/cter pintoresco[Noun].
+quail#codorniz[Noun].
+quail#acobardarse[Verb].
+quagmires#pantanos[Noun].
+quagmire#pantano[Noun].
+quaff#beber a grandes tragos[Verb].
+qua#en funciones de, en su condici�n de[Preposition].
+quadruplet#cua/druplo[Noun].
+quadruple#cua/druple[Noun].
+quadruped#cuadru/pedo[Noun].
+quadroon#cuartero/n[Noun].
+quadriplegic#paral�tico[Adjective].
+quadriplegic#cuadriple/gico.
+quadripartitely#cuatripartitamente[Adjective].
+quadripartite#cuatripartita[Adjective].
+quadrillion#cuatrill�n[Noun].
+quadriceps#cuadriceps.
+quadrature#cuadratura.
+quadratic#cuadr�tico.
+quadratically#cuadr�ticamente[Adjective].
+quadraphony#cuadrafon�a[Noun].
+quadraphonic#cuadraf�nico[Adjective].
+quadrants#cuadrantes[Noun].
+quadrant#cuadrante.
+quadrangular#cuadrangular[Adjective].
+quadrangles#cuadr�ngulos[Noun].
+quadrangle#cuadr�ngulo [Noun].
+quack#matasanos[Noun].
+quack#graznido.
+quackery#charlataneri/a.
+q#q.
+put#poner.
+pussy#micha.
+pussycat#minino.
+puss#cara.
+purse#la bolsa.
+purple#morado.
+pure#puro.
+purchase#la compra.
+pupil#a alumno[Noun].
+punish#castigar.
+pumpkin#la calabaza.
+puddles#charcos.
+puddle#charco.
+prove#probar.
+proud#orgulloso.
+protect#proteger.
+prostitute#prostituta[Noun].
+prostitute#lklklkj[Conjunction].
+prostate#pro/stata[Noun].
+pronounce#pronunciar.
+promise#prometer.
+program#el programa.
+products#PRODUCTOS[Noun].
+problem#el problema.
+therefore#por eso.
+therefor#entonces.
+there'd#habri/a.
+thereat#alla/.
+there#alli/.
+thereafter#despue/s.
+thereabouts#en los alrededores.
+thereabout#alrededor.
+therapy#tera/pia.
+therapist#terape/uta.
+therapists#terapeutas.
+therapies#tera/pias.
+therapeutist#terapeu/ta.
+therapeutic#terapeu/tico.
+theory#teori/a.
+theorize#teorizar[Verb].
+theorist#teo/rico.
+theorists#teo/ricos.
+theories#teorias[Noun].
+theoretical#teo/rico[Adjective].
+theorem#teorema.
+prize#el premio.
+private#privado/privada.
+principal#spainsh.
+price#el precio.
+prevent#prevenir.
+pretty#lindo.
+pretty#bonito.
+president#el presidente.
+prepare#reparar.
+pregnant#embarasada (really).
+prefer#preferir.
+predict#predecir.
+precise#preciso.
+precious#preciosa[Adjective].
+prearranged#arreglado de antemano[Adjective].
+preambles#prea/mbulos[Noun].
+preamble#prea/mbulo[Noun].
+preach#sermonear[Verb].
+preach#predicar[Verb].
+preaching#sermo/n[Noun].
+preaching#sermoneo[Noun].
+preaching#predicacio/n[Noun].
+preaches#predica[Verb].
+preachers#predicadores[Noun].
+preacher#predicador[Noun].
+pray#rogar[Verb].
+pray#rezar[Verb].
+pray#orar.
+prayers#ruegos[Noun].
+prayers#rezos[Noun].
+prayers#oraciones[Noun].
+prayer#ruego[Noun].
+prayer#oracio/n[Noun].
+pond#el estanque.
+polis#polis.
+poliomyelitis#poliomelitis.
+policy#poli/tica.
+policies#poli/ticas.
+policewomen#polici/as.
+policewoman#polici/a.
+polices#poli/ticas.
+police#polici/a.
+policemen#polici/a.
+policeman#polici/a.
+pole#polo.
+polemist#polemizador.
+polemics#pole/micas.
+polemic#pole/mica.
+polemicist#polemicista.
+polemical#pole/mico.
+polemically#pole/micamente.
+polar#polar.
+polarizing#polarizando.
+polarizes#polariza.
+polarizers#polarizadores.
+polarizer#polarizador.
+polarize#polarizar.
+polarized#polarizado.
+polarization#polarizacio/n.
+polarizable#polarizable.
+polarizables#polarizables.
+polarities#polaridades.
+polarity#polaridad.
+polarimeters#polari/metros.
+polarimeter#polari/metro.
+poker#hurgo/n.
+poison#veneno.
+poisons#venenos.
+poisonous#venenoso.
+poisonously#envenenadamente.
+poisoning#envenenando.
+poisoner#envenenador.
+poisoned#envenenado.
+poise#aplomo.
+points#puntos.
+point#punto.
+pointillist#puntillista.
+pointillistic#puntillistico.
+pointillism#puntillismo.
+pointer#puntero.
+poignant#punzante[Adjective].
+poignancy#viveza.
+poetic#poe/tico.
+poetical#poe/tica.
+poetically#poe/ticamente.
+poet#el poeta.
+poesies#poesi/as.
+poems#poemas.
+poem#el poema[Noun].
+podium#posio.
+pocketknife#navaja.
+pocket#el bolsillo.
+pocketbooks#libros de bolsillo.
+pocketbook#libro de bolsillo.
+pneumonic#neumo/nico.
+pneumonia#neumoni/a.
+pneumatolysis#neumatolisis.
+pneumatology#neumatologi/a.
+pneumatics#neuma/tica.
+pneumatic#neuma/tico.
+pneumaticity#neumaticidad.
+pneumatically#neuma/ticamente.
+pluvial#pluvial.
+pluton#pluto/n.
+plutonium#plutonio.
+plutonic#pluto/nico.
+plutonian#plutoniano.
+plutocrat#pluto/crata.
+plutocratic#plutocra/tico.
+plutocratically#plutocra/ticamente.
+plutocracy#plutocracia.
+pluses#a�adidos.
+plus#a�adido.
+pluriaxial#pluriaxial.
+pluripotent#pluripotente.
+plurals#plurales.
+plural#plural.
+pluralizer#pluralizador.
+pluralizers#pluralizadores.
+pluralize#pluralizar.
+pluralization#pluralizacio/n.
+pluralized#pluralizado.
+plurality#pluralidad.
+pluralist#pluralista.
+pluralistic#plurali/stico.
+pluralistically#plurali/sticamente.
+pluralism#pluralismo.
+plumulose#plumuloso[Adjective].
+plumule#plu/mula[Noun].
+plumulate#plumulado[Adjective].
+plumose#plumoso[Adjective].
+plum#la ciruela.
+plumb#plomo.
+plumbiferous#plumbi/fero[Adjective].
+plumbic#plu/mbico[Adjective].
+plumber#el plomero.
+plumbeous#plu/mbeo[Adjective].
+plumbago#plbago, ge/nero de las Plumbagina/aceas[Noun].
+plumbaginous#plumbagi/neo[Adjective].
+plugs#clavijas.
+plugged#enchufado.
+plug#clavija.
+pluggable#enchufable.
+plexus#plexo.
+pleura#pleura[Noun].
+pleural#pleural[Adjective].
+pleurae#pleuras[Noun].
+plethoric#pleto/rico.
+plethora#ple/tora.
+plenty#lleno.
+plenipotent#plenipotente.
+plenipotentiary#plenipotenciario.
+plenary#plenaria.
+plebiscite#plebiscito.
+plebiscitary#plebiscitario.
+pleasure#el gusto.
+play#tocar.
+please#por favor.
+play#jugar.
+playable#pagable.
+plausible#plausible.
+platina#platina[Noun].
+platforms#plataformas.
+platform#plataforma.
+plates#La/minas[Noun].
+plate#el plato.
+plateaus#plataformas[Noun].
+plateau#plataforma [Noun].
+plastid#plasto.
+plastidial#plastidial, relativo a los plastos[Adjective].
+plastic#pla/tico.
+plasticity#plasticidad.
+plasodesma#plasmodesmo[Noun].
+plasm#plasma[Noun].
+plasmolytic#plasmoli/tico.
+plasmolytically#plasmoli/ticamente[Adverb].
+plasmolysis#plasmo/lisis.
+plasmids#plasmidios.
+plasmatic#plasma/tico.
+plasmid#pla/smido.
+plasma#plasma.
+plasmalemma#plasmalema[Noun].
+plasmagenic#plasmage/nico.
+plantations#plantaciones.
+plants#plantas[Noun].
+plantation#plantacio/n[Noun].
+planimetric#planime/trico[Adjective].
+planimeters#plani/metros[Noun].
+planets#planetas[Noun].
+planet#el planeta[Noun].
+planetary#planetario[Adjective].
+plains#llanos[Noun].
+planetarium#planetario[Noun].
+plain#plano, llanura[Noun].
+placentations#placentaciones.
+placentation#placentacio/n[Noun].
+place#el lugar.
+placed#situado.
+placebo#placebo.
+pistol#pistola.
+piss#mear[Verb].
+pipe#la pipa.
+pink#rosado.
+pines#los pinos[Noun].
+pin#el alfiler.
+pineapples#las pin~as[Noun].
+pineapples#las anana/s[Noun].
+pineapple#la pin~a[Noun].
+pineapple#la anana/[Noun].
+pilot#el piloto.
+pillow#la almohada.
+pigeon#la paloma.
+pig#el puerco.
+pig#el chancho[Noun].
+pie#el pastel.
+picture#el cuadro.
+pickle#el encurtido.
+piano#el piano.
+photographer#photographer.
+petal#el pe/talo.
+pet#el animal dome/stico[Noun].
+perspire#sudar.
+personnel#personal[Noun].
+personify#ersonificar[Verb].
+person#la persona.
+personality#personalidad.
+permission#el permiso.
+perfume#el perfume.
+perfect#perfecto.
+peppermint#la menta.
+pepper#la pimienta.
+people#la gente.
+pen#un boligrafo[Noun].
+pen#la pluma.
+pencil#lapiz.
+pearl#perla.
+pearl#la perla.
+peanut#el cacahuate.
+pear#la pera.
+peaches#duraznos.
+pea#el#guisante.
+peach#durazno.
+peace#paz.
+peace#la paz.
+pay#pagar.
+paying#pagando.
+paw#la garra.
+pause#pausar.
+pause#la pausa.
+patient#paciente.
+patiently#pacientemente.
+path#la senda.
+past#pasado.
+pasteurize#pasteurizar[Verb].
+passports#pasaportes[Noun].
+passport#el pasaporte.
+pass#pasar.
+passiveness#pasividad[Noun].
+passively#pasivamente[Adverb].
+passengers#pasajeros[Noun].
+passenger#el pasajero.
+party#la tertulia.
+part#parta[Noun].
+participate#participar.
+parsley#el perejil.
+park#el parque.
+paper#el papel.
+pan#sarte/n[Noun].
+pancakes#panqueques[Noun].
+pancake#panqueque[Noun].
+pamphlet#folleto[Noun].
+pamper#chinear[Verb].
+pale#pa/lido[Adjective].
+palazzos#palacios[Noun].
+palazzo#palacio[Noun].
+palazzi#palacios[Noun].
+pal#amigo[Noun].
+palaeontology#paleontolog�a[Noun].
+palaces#palacios[Noun].
+palace#palacio[Noun].
+pajamas#piyamas[Noun].
+pajama#pijama[Noun].
+pair#par[Adjective].
+paints#pinturas[Noun].
+paint#pintar.
+painting#la pintura.
+painters#pintores[Adjective].
+painter#el pintor.
+painted#pintado[Verb].
+painless#indoloro/sin dolor.
+painfully#dolorosamente[Adverb].
+painful#doloroso.
+pain#el dolor.
+paid#pagado.
+pager#mensa/fono, buscapersonas.
+page#p�gina[Noun].
+pagan#pagano[Noun].
+paganization#paganizacion[Noun].
+paganism#paganismo[Noun].
+paella#paella[Noun].
+pack#paquete[Noun].
+packet#paquete.
+packed#guardado (that's just 1 meaning).
+packagings#empaquetados.
+packaging#empaquetando.
+packages#empaques.
+packagers#empaquetadores.
+packager#empaquetador[Noun].
+package#empaquetar[Verb].
+package#el paquete.
+packaged#empaquetado[Adjective].
+pacify#apaciguar[Verb].
+pacifist#pacifista[Noun].
+pacifistic#pacifista[Adjective].
+pacifistically#paci/ficamente[Adverb].
+pacifism#pacifismo[Noun].
+pacifies#pacifica.
+pacifier#pacificador.
+pacific#pac�fico[Adjective].
+pacific#pacifico[Adjective].
+pacificist#pacifista[Adjective].
+pacificators#pacificadores.
+pacificator#pacificador[Noun].
+pacifications#pacificaciones.
+pacification#pacificaci�n.
+pacifically#pac�ficamente[Adverb].
+pachyderm#paquidermo[Adjective].
+pachydermal#paquide/rmico[Noun].
+pace#paso[Noun].
+pacemaker#marcapasos[Noun].
+owe#deber.
+overview#visio/n general[Noun].
+overprice#sobreprecio[Noun].
+overpriced#sobrevalorado[Adjective].
+overpopulated#superpoblado[Adjective].
+overload#obrecargar[Verb].
+overloaded#obrecargado[Adverb].
+overcoat#el abrigo.
+oven#el horno.
+oven#orno.
+outside#afuera.
+other#otro.
+or#o.
+ordinary#ordinario.
+orchestra#la orquesta.
+open#open.
+orange#la naranja.
+open#abrir.
+open#abierto.
+open#.
+o#or[Conjunction].
+only#solamente.
+onions#cebollas.
+onion#la cebolla.
+onion#cebolla.
+one#uno.
+omnivorous#omnivoro.
+omniscience#omnisciencia.
+omnipresent#omnipresente.
+omnipotent#omnipotente.
+omit#omitir.
+omnipotence#omnipotencia.
+omens#ag�eros.
+omen#ag�ero.
+omelette#la tortilla.
+olives#aceitunas.
+olive#la aceituna.
+oligarchy#oligarquia.
+oligarch#oligarca.
+oligarchic#oligarquico.
+oligarchical#oligarquico.
+old#viejo.
+older#mayor.
+oiler#aceitera.
+oil#el aceite.
+oiled#aceitado.
+ohms#ohms.
+ohm#ohm.
+office#la oficina.
+offer#ofrecer.
+off#apagado.
+of#de.
+ofcourse#	claro.
+oeuvres#obras.
+oeuvre#obra.
+odors#olores.
+odorous#oloroso.
+odor#olor.
+odorless#inoloro.
+odontology#odontologia.
+odontologst#odontologo.
+odometers#odometros.
+odometer#odometro.
+October#octubre.
+octahedra#octaedro.
+octagons#octagonos.
+octagon#octa/gono.
+octagonal#octagonal.
+octagonally#octagonalmente.
+o'clock#en punto.
+o'clock#En punto.
+oceans#oceanos.
+oceanology#oceanologia.
+oceanologist#oceanografo.
+oceanologic#oceanologico.
+oceanological#oceanologico.
+oceanologically#oceanologicamente.
+oceanography#oceanografia.
+oceanographic#oceanografico[Adjective].
+oceanographical#oceanografico[Adjective].
+oceanographically#oceanograficamente[Adverb].
+oceanographers#oceanografos.
+oceanographer#oceanografo.
+ocean#oceano.
+oceanic#oceanico.
+oceangoing#maritimo.
+oceanfront#costa.
+oceanarium#aquario.
+occurs#ocurre.
+occurrent#ocurrente.
+occurrences#ocurrencias.
+occurrence#ocurrencia.
+occurred#ocurrio/,ocurrido[Verb].
+occur#ocurre.
+occupy#ocupar[Verb].
+occupying#ocupando[Verb].
+occupies#ocupa.
+occupied#ocupado[Adjective].
+occupations#ocupaciones.
+occupation#ocupacio/n.
+occupational#ocupacional.
+occupationally#ocupacionalmente.
+occupants#ocupantes.
+occupant#ocupante.
+occult#oculto.
+occultist#ocultista.
+occlude#obstruir[Verb].
+occultism#ocultismo.
+occiput#nuca[Noun].
+occipital#occipital[Noun].
+occipitally#occipitalmente[Adverb].
+occident#occidente, poniente, oeste[Noun].
+occidental#occidental.
+obliquity#oblicuidad[Noun].
+obtain#obtener[Verb].
+oblique#oblicuo.
+obliqueness#oblicuidad[Noun].
+obliquely#oblicuamente.
+oblique#english.
+oblige#obligar[Verb].
+obliged#obligado[Adjective].
+obligatory#obligatorio[Adjective].
+obligations#obligaciones[Noun].
+obligation#obligacio/n[Noun].
+obligational#obligatorio[Adjective].
+obligate#obligar[Verb].
+obligately#obligatoriamente[Adverb].
+obligated#obligado[Adjective].
+objurgate#reprender[Verb].
+objurgated#reprendido[Adjective].
+objet#objeto[Noun].
+objects#objetos[Noun].
+objectors#objetores[Noun].
+objector#objetor[Noun].
+objective#objetivo[Adjective].
+objectiveness#objetividad[Noun].
+objectively#objetivamente[Adverb].
+objections#objeciones[Noun].
+objection#objecio/n[Noun].
+objectionable#objetable[Adjective].
+object#el objeto.
+objected#objetado[Adjective].
+obfuscation#ofuscacion.
+obfuscating#ofuscando.
+obfuscate#ofuscar.
+obeys#obedece.
+obfuscated#ofuscado.
+obey#obedecer.
+obeying#obedeciendo[Verb].
+obeyed#obedecio[Verb].
+obesity#obesidad.
+obese#obeso/obesa.
+obese#obeso.
+obese#gordo/gorda[Adjective].
+obelisk#obelisco.
+obediently#obedientemente.
+obedient#obediente.
+obediences#obediencias.
+obedience#obediencia.
+obdurate#terco[Adjective].
+obdurately#tercamente[Adverb].
+obbligato#obligado[Adjective].
+obduracy#terquedad[Noun].
+oats#avena.
+oatmeal#avena.
+oaths#juramentos.
+oath#juramento.
+oatcake#Pastel de avena.
+oat#avena.
+oasis#oasis.
+oars#remos.
+oar#remo.
+oakwood#madera de roble.
+oaks#robles.
+oaks#Robles.
+noun#el sustantivo.
+notwithstanding#sin embargo[Adverb].
+notorious#notorio[Adjective].
+notorious#infamo.
+notion#nocio/n[Noun].
+notion#idea[Noun].
+notified#notifico/.
+notifications#notificaciones.
+notification#notificacio/n.
+noticing#notando.
+notice#prestar atencio/n[Verb].
+notice#notar[Verb].
+noticeable#notable[Adjective].
+noticeable#conspicuo[Adjective].
+nothing#nada.
+notebooks#cuadernos.
+notebook#el cuaderno.
+notebook#cuaderno.
+nose#la nariz.
+north#el norte.
+none#ninguno.
+noise#el ruido.
+nobody#nadie.
+nipples#pezones.
+nipple#pezon.
+ninety#noventa.
+nine#nueve.
+nightmare#la pesadilla.
+night#la noche.
+niece#la sobrina.
+nice#amable.
+news#las noticias[Noun].
+new#nuevo.
+newest#el mas nuevo.
+newer#mas nuevo.
+nevertheless#no obstante.
+never#nunca.
+net#la red[Noun].
+nest#el nido.
+nervous#nervioso.
+nephew#el sobrino.
+neighbor#la vecina[Noun].
+neighborhoods#vecindades.
+neighbor#el vecino.
+neighborhood#el vecindario.
+negotiating#negociando.
+negotiates#negocia.
+negotiate#negociar.
+negotiated#negociado.
+negotiant#negociante.
+negotiable#negociable.
+negative#negativo.
+negation#negatio/n.
+need#necesitar.
+needle#la aguja.
+nectar#nectar.
+necktie#la corbata.
+necklaces#gargantillas.
+necklace#el collar.
+neck#el cuello.
+necessary#necesario.
+neat#pulcro.
+near#cerca.
+nearby#cerca[Adverb].
+nearby#cerca[Adjective].
+nature#naturaleza[Noun].
+natural#naturalis.
+naturalism#natu.
+nation#nacio/n[Noun].
+national#nacional.
+nationalize#nacionalizar.
+nationalization#nacionalizacio/n.
+nationality#nacionalidad.
+nationalities#nacionalidades.
+nasty#desagradable[Adjective].
+narrowing#estrechando[Adverb].
+narrow#estrecho.
+narrator#narrador[Noun].
+narration#narracio/n[Noun].
+narrational#narrativo, narrativa[Adjective].
+narrate#narrar[Verb].
+narrate#narrar[Noun].
+narrated#narrado[Verb].
+narcotic#narco/tico.
+narcotics#narco/ticos.
+narcolepsy#narcolepsia[Noun].
+narcolepsy#narcolepsia[Noun].
+narcissus#narciso[Noun].
+narcissist#narcisista[Noun].
+narcissist#narcisista[Noun].
+narcissist#narcisista[Adjective].
+narcissistic#narcisista[Adjective].
+narcissism#narcisismo[Noun].
+narcissistic#narcisista[Adjective].
+nap#la siesta.
+napkins#servilletas[Noun].
+napkin#la servilleta.
+naphtha#nafta[Noun].
+napalm#napalm[Noun].
+nanoseconds#nanosegundos[Noun].
+nanosecond#nanosegundo[Noun].
+names#michael.
+namesake#tocayo[Noun].
+name#el nombre.
+nakedness#desnudez[Noun].
+nakedly#desnudamente[Adverb].
+naked#desnudo[Adjective].
+naiveness#ingenuidad[Noun].
+naively#ingenuamente[Adverb].
+naive#ingenuo[Adjective].
+nail#un~a[Noun].
+nails#un~as[Noun].
+nails#clavos[Noun].
+nail#el clavo.
+mystery#el misterio.
+mute#mudo, muda[Adjective].
+mutation#la mutacio/n[Noun].
+mustard#la mostaza.
+mustaches#los bigotes[Noun].
+mustache#el bigote.
+musicology#la musicologi/a[Noun].
+musicologist#el musico/logo[Noun].
+music#la mu/sica[Noun].
+musicians#los mu/sicos[Noun].
+musician#el mu/sico[Noun].
+mushroom#el hongo[Noun].
+musical#musical[Adjective].
+museum#el museo.
+muscular#muscular[Adjective].
+muscles#los mu/sculos[Noun].
+muscle#el mu/sculo[Noun].
+murmur#murmurar[Verb].
+murder#el asesinato.
+murder#asesinar.
+municipal#municipal[Adjective].
+municipality#la municipalidad[Noun].
+municipalities#las municipalidades[Noun].
+munch#masticar[Verb].
+multitudes#las multitudes[Noun].
+multitude#la multitud[Noun].
+multiply#multiplicar[Verb].
+multiplying#multiplicando[Verb].
+multiplication#la multiplicacio/n[Noun].
+mule#la mula[Noun].
+mulberry#la mora[Noun].
+mud#el lodo.
+mud#el barro[Noun].
+much#mucho.
+movie#theater	el cine.
+movies#el cine[Noun].
+movie#la peli/cula[Noun].
+move#mover(se)[Verb].
+movements#los movimientos[Noun].
+movement#el movimiento[Noun].
+move#(household) mudarse[Verb].
+mouthwash#el enjuague.
+mouth#la boca.
+moustaches#los bigotes[Noun].
+moustache#el bigote[Noun].
+mouse#rato/n.
+motor#MOTOR[Noun].
+mouse#laucha.
+motivation#MOTIVACION[Noun].
+motorcycle#la motocicleta.
+motivating#MOTIVANTE[Adjective].
+motions#MOVIMIENTOS[Noun].
+motivated#MOTIVADO[Adjective].
+motion#MOVIMIENTO[Noun].
+motionless#ESTATICO[Adjective].
+mother#MADRE[Noun].
+mother#la madre.
+mortgages#hipotecas[Noun].
+mortgager#hipotecario.
+mortgage#hipoteca[Noun].
+mortgaged#hipotecado[Adjective].
+mortally#mortalmente[Adverb].
+mortals#mortales.
+mortality#mortalidad[Noun].
+morphologic#morfolo/gico[Adjective].
+mornings#man~anas[Noun].
+morning#man~ana[Noun].
+moribund#moribundo.
+more#ma/s[Adjective].
+mopping#trapear[Verb].
+mopper#trapeador[Noun].
+mop#gerga[Noun].
+moon#la luna.
+mood#el humor.
+months#los meses[Noun].
+month#el mes.
+money#el dinero.
+monkey#el mono.
+modern#moderno.
+Monday#el lunes.
+mixture#la mezcla.
+mistake#la falta.
+miss#extran~ar[Verb].
+mischievous#travieso[Adjective].
+mirror#el espejo.
+minute#el minuto.
+mi#me.
+millennium#3012.
+milk#la leche.
+mile#la mila.
+midnight#la medianoche.
+metalize#shgfhg.
+message#el mensaje.
+men#loshombres.
+memory#la memoria.
+megabyte#mega-byte[Noun].
+meet#ser presentado a[Verb].
+meet#reunirse[Verb].
+meets#encontra[Verb].
+meetings#reuniones[Noun].
+meetings#encuentros[Noun].
+meeting#reunio/n[Noun].
+meeting#encuentro[Noun].
+meet#encontrar[Verb].
+meek#paciente[Adjective].
+meekness#mansedumbre[Noun].
+meekness#docilidad[Noun].
+meek#manso[Adjective].
+meek#do/cil[Adjective].
+medleys#mezcolanzas[Noun].
+medleys#mezclas[Noun].
+medleys#baturrillos[Noun].
+medley#mezcolanza[Noun].
+medley#mezcla[Noun].
+medley#baturrillo[Noun].
+mediums#medios[Noun].
+medium#medio[Noun].
+medium#mediano[Adjective].
+medium#intermedio[Adjective].
+meditations#meditaciones[Noun].
+meditation#meditacio/n[Noun].
+meditate#meditar[Verb].
+medieval#medieval[Adjective].
+medicine#la medicina.
+medal#la medalla.
+meat#la carne.
+meatball#alb"o/"ndigas[Noun].
+measurement#medicion[Noun].
+meals#las comidas.
+meal#la comida.
+mayonnaise#la mayonesa.
+May#mayo.
+mask#ma/scara[Noun].
+married#casado.
+marry#casarse.
+market#el mercado.
+March#marzo.
+map#el mapa.
+many#muchos.
+man#vero/n[Noun].
+man#hombre.
+maneuvers#maniobras.
+maneuverer#maniobrador.
+man#el hombre.
+mancipation#emancipacio/n[Noun].
+managers#gerentes[Noun].
+managerially#gerencialmente[Adverb].
+manager#el gerente.
+management#gerencia[Noun].
+mammography#mamografi/a[Noun].
+mammary#mamaria.
+mammals#mami/feros[Noun].
+ma#mama/[Noun].
+malnutrition#desnutricio/n[Noun].
+mallet#mazo[Noun].
+malleability#maleabilidad.
+malignant#maligno[Adjective].
+make#hacer.
+mainly#principalmente.
+mailman#el cartero.
+mail#el correo.
+mailboxes#buzones.
+mailbox#buzo/n.
+mailbox#apartado postal.
+maid#la criada.
+maiden#soltera[Noun].
+maidenhood#solteri/a[Noun].
+magnolias#magnolias[Noun].
+magnolia#magnolia[Noun].
+magnitudes#magnitudes[Noun].
+magnitude#magnitud[Noun].
+magniloquent#magnilocuente[Adjective].
+magniloquently#magnilocuentemente[Adjective].
+magniloquence#magnilocuencia[Noun].
+magnific#magn�fico[Adjective].
+magnificence#magnificencia[Noun].
+magnifically#magn�ficamente[Adjective].
+magnetisms#magnetismo[Noun].
+magnetism#magnetismo[Noun].
+magnet#ima/n.
+magnetic#magne/tico.
+magnetically#magneticamente[Adjective].
+magnesia#magnesio(a).
+magnesium#magnesio[Noun].
+magnate#potentado.
+magnanimously#magnanimosamente[Adjective].
+magnanimous#magn�nimo[Adjective].
+magnanimity#magnanimosidad[Noun].
+magma#magma.
+magma#lava volcanica[Noun].
+magistrature#magistratura[Noun].
+magistrates#magistrados[Noun].
+magistrate#magistrado.
+magistral#magistral[Noun].
+magistrally#magistralmente[Adjective].
+magistracy#jurisdiccion de magistrado.
+magisterium#magistreio o autoriad delo.
+magisterially#magistralmente.
+magisterial#authoritario; dominante; pomposo.
+magic#ma/gico.
+magic#magia[Noun].
+magicians#magos.
+magician#mago.
+magical#ma/gico.
+magically#m�gicamente[Adjective].
+maggoty#caprichoso; quimerico[Adverb].
+maggot#cresa; gusano; larva[Noun].
+magenta#rojo purpureo; solferino[Adjective].
+magazine#una revista.
+magazines#las revistas[Noun].
+magazine#(military)cargador,peine.[Noun].
+macerates#macera.
+macerate#macerar.
+macerated#macerado.
+mace#mazo[Noun].
+macaws#lapas.
+macaw#lapa.
+macaroon#macarr�n.
+macaronically#macarronicamente[Adverb].
+macarizing#macarronico, ca[Adjective].
+macarizes#macarrona[Verb].
+macarize#macarron[Verb].
+macarized#macarronismo[Noun].
+lunch#el almuerzo.
+lunch#almuerzo (n).
+lunch#almorzar (v).
+lukewarm#tibio.
+lucidly#lu/cidamente[Adverb].
+lucidity#lucidez[Noun].
+lubricous#l�brico[Adjective].
+lubric#l�brico[Adjective].
+lubricates#lubrica[Verb].
+lubricate#lubricar[Verb].
+lover#amante[Noun].
+lovely#adorable[Adjective].
+love#love.
+love#encanta[Verb].
+loud#ruidoso.
+lost#perdido.
+lose#perder.
+loose#suelto.
+loose#flojo[Adjective].
+looser#sueltos[Adjective].
+loom#telar[Verb].
+look#ver[Verb].
+looking#viendo[Verb].
+look#mirar[Verb].
+looking#mirando.
+loiter#vagar[Verb].
+loins#los lomos[Noun].
+loin#el lomo[Noun].
+logo#el logotipo.
+loft#el desva/n[Noun].
+lodge#la casa del guarda[Noun].
+locusts#las langostas[Noun].
+locust#la langosta[Noun].
+locket#el medallo/n[Noun].
+lockers#los casilleros[Noun].
+locker#el casillero[Noun].
+loch#el lago[Noun].
+location#la situacio/n[Noun].
+locate#localizar[Verb].
+locals#los vecinos[Noun].
+local#local[Adjective].
+lobsters#las langostas[Noun].
+lobster#la langosta.
+lobe#el lo/bulo[Noun].
+loads#las cargas[Noun].
+load#la carga[Noun].
+lizard#lagarto[Noun].
+living room#la sala.
+littlest#menor.
+littler#menor.
+little#poco[Adjective].
+little#pequen~o[Adjective].
+little#chico[Adjective].
+literature#la literatura.
+literally#woertlich.
+lime#uni.
+limes#las limas[Noun].
+lime#la lima.
+like#gustar.
+like#como[Adverb].
+lightning#el rela/mpago[Noun].
+light#la luz.
+lightening#la la/mpara[Noun].
+lightening#el rela/mpago[Noun].
+lightbulb#la bombilla.
+lie#mentir.
+lid#la tapa.
+lick#lamer.
+license#la licencia[Noun].
+lice#los piojos[Noun].
+library#la biblioteca.
+libraries#las bibliotecas[Noun].
+liberty#la libertad[Noun].
+liberator#el libertador[Noun].
+liberation#la liberacio/n[Noun].
+levels#los niveles[Noun].
+level#el nivel[Noun].
+lettuce#la lechuga.
+letter#typewriter[].
+lenses#lentes[Noun].
+lend#prestar.
+lemons#limones[Noun].
+lemon#el limo/n[Noun].
+lemonade#limonada[Noun].
+leisure#el ocio.
+legal#legal[Adjective].
+legalize#legalizar[Verb].
+legalist#el legalista[Noun].
+lefty#surdo, surda[Noun].
+left#izquierdo.
+lefties#surdos, surdas[Noun].
+lee#sotavento[Noun].
+leech#sanguijuela[Noun].
+ledger#travesa�o, andamio[Noun].
+ledge#borde, anaquel[Noun].
+leave#salir.
+leathern#de cuero[Adjective].
+leather#el cuero.
+leap#el salto[Noun].
+leaflets#los libritos.
+lazy#perezoso.
+lazy#guapo[Adjective].
+lawyers#los abogados[Noun].
+lawyer#el abogado.
+laws#las leyes[Noun].
+lawn#el prado.
+lawn#el cesped[Noun].
+lawless#sin ley[Adjective].
+law#la suegra.
+late#tarde.
+last#u/ltimo[Adjective].
+last#ultimo.
+last#durar[Verb].
+lass#la muchacha.
+lasses#las muchachas.
+large#grande[Adjective].
+lapels#las solapas[Noun].
+lapel#la solapa[Noun].
+lanterns#las la/mparas[Noun].
+lantern#la la/mpara[Noun].
+languages#las lenguas[Noun].
+language#la lengua.
+language#el lenguaje[Noun].
+language#el idioma[Noun].
+landlord#el duen~o[Noun].
+landlords#los duen~os[Noun].
+land#la tierra[Noun].
+landlady#la duen~a[Noun].
+lances#lanzas[Noun].
+lake#el lago.
+laity#seglares[Noun].
+lair#la guarida[Noun].
+laird#terrateniente[Noun].
+laid#recostado.
+laid#colocado[Adjective].
+laid#acostado[Adjective].
+laic#laico, laica[Adjective].
+laicizes#da caracter laico.
+laicized#dio caracter laico.
+laicize#dar caracter laico.
+laicizations#laicizaciones[Noun].
+laicization#laicizacion[Noun].
+laicism#laicismo[Noun].
+lagoons#lagunas[Noun].
+lagoon#laguna.
+lagomorph#lagomorfo.
+lagger#vago, vaga[Noun].
+lagged#retrasado.
+laggard#rezagado[Adjective].
+laggardly#rezagadamente[Adverb].
+ladybugs#mariquitas[Noun].
+ladybugs#catarinas.
+ladybug#mariquita[Noun].
+ladybug#catarina.
+ladybirds#mariquitas[Noun].
+ladybird#mariquita[Noun].
+lads#muchachos.
+lads#chicos[Noun].
+lad#muchacho.
+ladling#sirviendo con cucharones[Verb].
+ladles#cuchorones[Noun].
+ladle#cucharon[Noun].
+ladies#damas.
+laden#cargado[Adjective].
+laded#cargado.
+lade#cargar (to load in shipping)[Verb].
+ladders#las escaleras[Noun].
+ladders#escalas[Noun].
+ladder#escalera.
+ladder#escala[Noun].
+lad#chico[Noun].
+lacunar#lagunar[Noun].
+lacuna#laguna[Noun].
+lack#falta, carencia.
+lackeys#lacayos (sirvientes)[Noun].
+lachrymator#lacrimogeno[Noun].
+lachrymal#lagrimal.
+lachrymal#lacrimal[Adjective].
+lacework#encajes[Noun].
+laces#cintas[Noun].
+lacerations#laceraciones[Noun].
+laceration#laceracion[Noun].
+labor#Parto (childbirth)[Noun].
+labor#la obra[Noun].
+labor#laborar[Verb].
+laborites#laboristas[Noun].
+laborite#laborista[Noun].
+laborists#los laboristas[Noun].
+laborist#el laborista[Noun].
+laborious#tabajoso[Adjective].
+laboriously#laboriosamente.
+laborious#laborioso.
+laboring#trabajando[Verb].
+laboring#laborando[Verb].
+laborers#obreros[Noun].
+laborers#los trabajadores[Noun].
+laborers#jornaleros[Noun].
+laborer#obrero[Noun].
+laborer#jornalero[Noun].
+laborer#el trabajador[Noun].
+labor#el labor[Noun].
+knock#tocar.
+knockdown#tumbar.
+knights#caballeros[Noun].
+knight#caballero.
+knife#la navaja.
+knife#el cuchillo.
+knew#sabia, supo[Verb].
+knees#rodillas.
+kneel#arrodillarse[Verb].
+knee#la rodilla.
+kitten#el gatito.
+kitchen#la cocina.
+kisses#besos[Noun].
+kiss#besar.
+kiosk#kiosko.
+kings#vreyes.
+king#el rey.
+kingdoms#reinos[Noun].
+kingdom#reino[Noun].
+kilometers#kil�metros.
+kilometer#kil�metro[Noun].
+kilo#kilo.
+kilobit#kilobit.
+kill#matar.
+keeping#custodia, cuidado.
+keep#keep.
+keep#guardar.
+keeper#Guardi�n, custodio.
+judge#el juez.
+joke#la broma.
+job#trabajo[Noun].
+j#j.
+jewels#las joyas.
+jewel#la joya.
+jeans#vaqueros[Noun].
+jealous#celoso.
+jar#la jarra.
+January#enero.
+janitor#el conserje.
+jail#jaula[Noun].
+jag#raja.
+jag#punta, pu�[Noun].
+jagged#dentado, mellado, disigual[Adjective].
+jade#jade.
+jackals#chacales.
+jackal#chacal[Noun].
+jab#pinchazo.
+jabber#algarab�a.
+I#yo.
+i#yo.
+Italy#Italia.
+island#la isla.
+iron#planchar.
+iron#el hierro.
+interview#la entrevista.
+intervention#intervencio/n[Noun].
+internals#internos(as)[Adjective].
+internally#internamente[Adjective].
+internalizing#internalizando[Verb].
+internalizes#internaliza[Verb].
+internalize#internalizar[Verb].
+internalized#internalizado[Adjective].
+internalization#internalizaci�n[Noun].
+internality#internalidad[Adjective].
+internal#interno(a)[Noun].
+interesting#interesante.
+intelligent#inteligente.
+insult#insultar.
+insult#el insulto.
+inside#dentro.
+insect#el insecto.
+innocent#inocente[Adjective].
+innocent#el inocente[Noun].
+innocence#la inocencia[Noun].
+ink#la tinta.
+inclement#inclemente[Adjective].
+inclemency#inclemencia[Noun].
+inciting#incitante[Adjective].
+incites#incita[Verb].
+inciter#incitar[Verb].
+incitements#incitamientos[Noun].
+incitement#incitamiento[Noun].
+incite#incitar[Verb].
+incited#incitdo(a)[Adjective].
+incitations#incitaciones[Noun].
+incitation#incitaci�n[Noun].
+incinerates#incinera[Verb].
+incinerate#incinerar[Verb].
+incinerated#incinerado[Adjective].
+incidents#incidentes[Noun].
+incident#incidente[Noun].
+incidentals#a music notacion symbol.
+incidentally#incidentalmente[Adjective].
+incentives#incentivos.
+incentive#incentivo[Noun].
+incensing#inciensando[Verb].
+incenses#inciensa[Verb].
+incense#incienso[Noun].
+incensed#inciensado(a).
+incendiary#incendiario(a)[Adjective].
+incendiaries#incendiarios(as)[Adjective].
+incautiousness#descuidado(a)[Adjective].
+incautiously#descuidadamente.
+incarcerate#encarcelar[Verb].
+incarcerated#encarcelado.
+incapacity#incapacidad[Adjective].
+incapacitates#Incapac�ta.
+incapacitate#Incapacitar[Verb].
+incapacitated#incapacitado[Adjective].
+incapable#incapaz.
+incant#Encantar[Verb].
+incanted#Encantado(a).
+incantations#Encantaciones.
+incantation#Encantaci�n.
+identic#id�ntico[Adjective].
+identically#id�nticamente[Adverb].
+identical#id�ntico[Adjective].
+idem#�dem.
+ideates#idea[Verb].
+ideas#ideas[Noun].
+ideate#idear[Verb].
+ideals#ideales[Noun].
+idealizes#idealiza[Verb].
+idealize#idealizar[Verb].
+idealized#idealizado[Adjective].
+idealizations#idealizaciones[Noun].
+idealization#idealizaci�n[Noun].
+idealist#idealista[Adjective].
+idealism#idealismo[Noun].
+ideal#ideal[Adjective].
+idea#la idea.
+icons#iconos[Noun].
+iconographic#rhtrhyhgf.
+iconographical#eth.
+iconographer#icon�grafo[Noun].
+iconoclast#iconoclasta.
+iconoclastic#iconocl�stico.
+iconoclastic#iconoclasta[Adjective].
+iconoclastically#iconocl�sticamente.
+icon#el i/cono[Noun].
+icing#alcorza, escarchado[Noun].
+icily#icon�grafo.
+iciest#lo ma/s helado[Adjective].
+icier#ma/s helado[Adjective].
+icicles#los cara/mbanos.
+icicle#el cara/mbano[Noun].
+ice#el hielo.
+hunger#la hambre.
+hummingbird#colibri/[Noun].
+humiliate#humillar[Verb].
+humidity#la humedad.
+humdrum#aburrido[Adjective].
+humble#humillar[Verb].
+humans#los humanos[Noun].
+humble#humilde[Adjective].
+humanity#humanidad[Noun].
+houses#casas.
+house#la casa.
+homeless#desposeido.
+home#hogar, casa, vivienda.
+homebuilder#constructor.
+hit#pegar.
+history#la historia.
+hipla#cadera.
+him#el[Pronoun].
+hill#la loma[Noun].
+hill#la colina.
+high#alto.
+h#h.
+hen#la gallina.
+helpful#u/til[Adjective].
+helpers#Ayudantes[Noun].
+helper#Ayudante[Noun].
+helper#ayudante[Noun].
+helped#Ayudado[Adjective].
+help#ayudar.
+help#Ayuda[Noun].
+helm#Yelmo[Noun].
+helmet#Casco[Noun].
+helmet#casco.
+hello#que tal.
+hello#hola.
+heir#Heredero[Noun].
+heiress#Heredera[Noun].
+heiresses#herederas[Noun].
+height#la altura.
+he#e/l[Pronoun].
+heavy#pesado.
+heat#el calor.
+healthy#sano.
+health#salud.
+health#la salud.
+health#health.
+head#la cabeza.
+headdress#tocado[Noun].
+head#doument.
+head#cabeza.
+headaches#dolores de cabeza.
+headache#dolor de cabeza.
+hazy#brumoso[Adjective].
+hazelnuts#avellanos[Noun].
+hazelnut#avellano[Noun].
+hazel#avellanado[Adjective].
+haze#la bruma[Noun].
+hazardous#peligroso[Adjective].
+have#tener.
+harmonic#Arm�nico[Adjective].
+hares#Liebres[Noun].
+harem#Har�m[Noun].
+harelipped#Leporino (labio)[Adjective].
+hare#Liebre[Noun].
+harebrained#Tonto[Adjective].
+hardware#circuitos[Noun].
+tear#desgarrar[Verb].
+teapot#tetera.
+teapot#la tetera.
+teams#equipos.
+teammates#compan~eros de equipo.
+teammate#compan~ero de equipo.
+team#equipo ( as in football).
+team#el equipo.
+teachings#ensen~anzas.
+teaching#ensen~ando.
+teaches#ensen~a.
+teachers#maestros, profesores.
+teacher#maestro, profesor.
+teacher#maestra,profesora.
+tastier#gustoso.
+tastes#gustos.
+tasters#gustadores.
+taster#gustador.
+tasteless#sin gusto, insi/pido.
+taste#gusto.
+tastefulness#gusto.
+tastefully#gustosamente.
+tasteful#gustoso.
+tasted#gusto/.
+taskwork#quehaceres ( chores).
+tasks#querhaceres (chores).
+task#quehacer ( chore).
+tarts#tartas ( as in little cakes).
+tarot#tarot.
+tarnish#manchar ( to stain).
+tarnished#manchado ( stained).
+tariff#tarifa.
+tariffs#tarifas.
+tardiness#tardi/a.
+tardily#tardemente.
+tarantula#tarantula.
+tarantulas#tarantulas.
+tapioca#tapioca.
+tape#la cinta.
+tape#grabar ( as in tape a show).
+tan#tostado.
+tanned#bronceado ( as in suntanned ).
+tank#tanque.
+tango#tango ( the dance).
+tangos#tangos ( the dance ).
+tangerine#la mandarina.
+ta#bronceado ( as in suntan).
+hard#tieso[Adjective].
+hardness#dureza.
+hard#duro.
+hard#difi/cil[Adjective].
+harbor#puerto[Noun].
+harass#molestar[Verb].
+harassed#ACOSADA[Adjective].
+harass#acosar[Verb].
+hands#las manos.
+hand#la mano.
+handbags#las bolsas[Noun].
+handbag#la bolsa[Noun].
+hammer#el martillo.
+ham#jamon[Noun].
+hamburgers#hamburgesas.
+hamburger#hamburgesa.
+halyard#driza[Noun].
+hallway#el pasillo.
+half#medio.
+halfcircle#semicirculo.
+ha#ja.
+hair#el pelo.
+hairdressers#peluqueros[Noun].
+hairdresser#peluquero[Noun].
+haircut#corte de pelo.
+haddocks#eglefinos (pescados)[Noun].
+haddock#merluza[Noun].
+haddock#eglefino (pescado)[Noun].
+hackney#trillar[Verb].
+hackneyed#trillado[Adjective].
+hackmatack#happy birthday.
+hackling#happy birthday.
+hackles#happy birthday.
+hack#cortar; tajar, rebanar[Verb].
+haciendas#haciendas.
+hacienda#hacienda.
+habitus#habito.
+habituation#habituacio/n[Noun].
+habituating#habituando[Verb].
+habituates#(se) habitua.
+habituate#habituar[Verb].
+habituate#habituar.
+habitats#h�bitats[Noun].
+habitats#habitats.
+habitations#habitaciones.
+habitation#habitacio/n.
+habitability#habitabilidad.
+habilitations#habilitaciones.
+habilitation#habilitacio/n.
+habilitating#habilitando[Verb].
+habilitates#habilitar.
+habilitate#habilitar.
+habilitated#habilitado.
+haberdashery#mercer�a[Noun].
+haberdasheries#mercer�as[Noun].
+haberdasher#camisero[Noun].
+habeas#habeas.
+gypsy#gitano/a[Noun].
+gypsy#gitano/a[Noun].
+gypsy#gitano/a[Noun].
+gypsies#gitanos/as[Noun].
+gyms#gimnasios; gimnasias[Noun].
+gymnasts#gimnastas[Noun].
+gymnastics#gimnasia[Noun].
+gymnastic#gimnasia[Noun].
+gymnast#gimnasta[Noun].
+gymnasium#gimnasio[Noun].
+gymnasiums#gimnasios[Noun].
+guts#intestinos[Noun].
+gut#intestino[Noun].
+guitar#la guitarra.
+guilty#culpable.
+gruelling#penoso,duro[Adjective].
+grownups#gente grande.
+grow#crecer.
+group#grupo.
+group#el grupo.
+ground#el suelo.
+gross#asqueroso.
+groovy#chido.
+grocery#store	la bodega.
+grenades#granadas[Noun].
+grenade#granada[Noun].
+green#verde.
+greens#verdes[Noun].
+greenish#verdoso[Adjective].
+gravel#grava[Noun].
+grave#grave[Noun].
+gratuity#propina[Noun].
+gratuitous#gratuito[Adverb].
+gratuities#propinas[Noun].
+gratitude#gratitud[Noun].
+grass#la hierba.
+grape#la uva.
+grapefruit#la toronja.
+grandsons#nietos[Noun].
+grandson#el nieto.
+grandparent#abuelo[Noun].
+grandmothers#abuelas.
+grandmother#la abuela.
+grandmother#abuela.
+grandmas#abuelas.
+grandma#abuela.
+grandfathers#abuelos[Noun].
+grandfather#el abuelo.
+grandfather#abuelo.
+granddaughter#la nieta.
+granddad#abuelo[Noun].
+grammar#gramatica.
+government#el gobierno.
+gloves#los guantes.
+glove#el guante.
+glass#el vidrio.
+give#dar.
+girls#las muchachas.
+girl#la muchacha.
+girlfriends#amigas.
+girlfriend#novia; amiga.
+giraffe#la jirafa.
+gin#la ginebra.
+gift#el regalo.
+ghost#el fantasma.
+getup#levantarse[Verb].
+get up#levantarse.
+get#obtener.
+game#el juego.
+galloping#galopando[Verb].
+gallop#galope[Noun].
+gallery#galer�a[Noun].
+gallantry#galanter�a[Adjective].
+gallantly#galantemente[Adjective].
+fulfill#cumplir.
+fulfill#completar, lograr.
+fulcrum#fulcro.
+fugue#fuga.
+fugitive#fugitivo.
+fuel#combustible.
+fudge#dulce de chocolate.
+fucus#enfocar[Verb].
+fucking#chingando[Verb].
+fuckers#chingadores[Noun].
+fucker#chingador[Noun].
+fucked#chingado[Verb].
+fuck#chingar.
+fruit#la fruta.
+frost#la escarcha.
+frozen#congelado.
+front#el frente.
+from#de.
+frog#la rana.
+frighten#espantar.
+friends#los amigos.
+friendships#amistades[Noun].
+friendship#amistad[Noun].
+friend#el amigo.
+friend#amigo (m), amiga (f).
+fried#frito.
+Friday#el viernes.
+freshen#va. refrescarse.
+fresh#adj. fresco.
+frequent#va. frecuentar.
+frequently#a menudo.
+frequented#adj. asendereado.
+frequent#adj. frecuente.
+freeze#helar.
+free#gratis.
+France#la Francia.
+fox#el zorro.
+fourth#el cuarto.
+fourteen#catorce.
+four#fourty[Adjective].
+four#cuatro.
+forgives#perdona[Verb].
+forgive#perdonar.
+forgiveness#perdo/n[Noun].
+forgets#olvida[Verb].
+forget#olvidarse.
+forgetful#olvidadizo[Adjective].
+forgetfulness#olvido[Noun].
+forever#para siempre[Article].
+forest#el bosque.
+foreign#extranjero.
+food#comida[Noun].
+food#comida[Noun].
+flower#la flor.
+flour#la harina.
+floor#el suelo.
+float#flotar.
+flight#vuelo[Noun].
+flights#vuelos[Noun].
+flea#la pulga.
+flavor#el sabor.
+flat#plano.
+flat#llano.
+flannel#la franela.
+flame#la flama.
+flakes#copos[Noun].
+five#cinco.
+fish#pescado.
+fishing#pesquero(a)[Adjective].
+fisherman#el pescador.
+fish#el pescado.
+first#primero.
+fireplace#la chiminea[Noun].
+fireplace#el hogar.
+fireman#el bombero.
+fire#la lumbre [Noun].
+firearm#arma de fuego[Noun].
+finish#acabar.
+fingers#los dedos.
+finger#el dedo.
+find#hallar.
+fifteen#quince.
+fiery#ardiente.
+fielder#jardinero[Noun].
+fierce#feroz[Adjective].
+field#el campo.
+fiduciary#fiduciario[Noun].
+fidgety#inquieto[Adjective].
+fidget#agitarse[Verb].
+fib#mentirilla[Noun].
+fiber#fibra[Noun].
+fiasco#fiasco[Noun].
+fiance#prometido[Noun].
+fiancee#prometida[Noun].
+few#pocos.
+fewer#menos.
+fever#la fiebre.
+feverish#febri/l[Adjective].
+feverish#afiebrado[Adjective].
+fever#calentura[Adjective].
+fetus#feto[Noun].
+fetch#traer[Verb].
+festival#fiesta[Noun].
+fervor#el fervor[Noun].
+fervid#vehemente[Adjective].
+ferment#fermento[Noun].
+ferment#fermentar[Verb].
+felicitate#felicitar[Verb].
+feldspar#feldespato[Noun].
+feint#finta[Noun].
+feign#aparentar[Verb].
+feet#los pies.
+feel#sentir[Verb].
+feel#sensacio/n[Noun].
+feel#palpar[Verb].
+fear#temer.
+fearless#arrojado[Adjective].
+fearless#arrojado[Adjective].
+favorite#favorito.
+farm#la hacienda.
+farmer#el campesino.
+farm#la granja[Noun].
+famous#famoso.
+family#la familia.
+family#familia, parientes.
+fame#la fama.
+falsified#falsificado.
+false#falso.
+fallen#caido.
+fall#caer.
+faith#la fe.
+faithful#fiel.
+fairy#la hada.
+fair#justo.
+fact#realidad[Noun].
+factitious#facticio[Adjective].
+factious#faccioso[Adjective].
+faction#faccion.
+factionalism#faccionalismo[Noun].
+factional#faccioso[Adjective].
+facsimile#facsimile[Noun].
+facing#paramento[Noun].
+facility#facilidad[Noun].
+facilitation#facilitacion[Noun].
+facilitate#facilitar[Verb].
+facile#vivo[Adjective].
+facial#facial.
+facetious#gracioso[Adjective].
+facet#faceta[Noun].
+face#rostro[Noun].
+face#rostro[Noun].
+face#la cara.
+faced#enfrentado[Verb].
+face#cara.
+fabulist#fabulista[Noun].
+fabric#fabrica[Noun].
+fabricate#fabricar[Verb].
+fabricate#elaborar[Verb].
+fabricant#fabricante.
+fable#fabula.
+eyes#los ojos.
+expressions#expresiones[Noun].
+express#expresar[Verb].
+explode#estallar.
+explain#explicar.
+expensive#caro.
+exit#la salida.
+exile#exilio.
+exiguousness#exig�edad.
+exiguously#exiguamente.
+exiguous#exiguo.
+exiguity#exig�edad.
+exigently#exigentemente.
+exigency#exigencia.
+exigent#exigente.
+exigencies#exigencias.
+exigence#exigencia.
+exhuming#exhumado; exhumar.
+exhumer#exhumador.
+exhume#exhumar.
+exhumed#exhumado.
+exhorts#exhortos.
+exhorting#exhortando; exhortar.
+exhort#exhortar.
+exhorted#exhortado.
+exhortatory#exhortatorio.
+exhortative#exhortativo.
+exhortations#exhortaciones.
+exhortation#exhortaci�n.
+exhibitors#expositores.
+example#el ejemplo.
+exactly#en punto.
+everything#todo.
+everyone#todo el mundo[Noun].
+Europe#la Europa.
+escape#escaparse.
+estimat#estimar.
+ermine#armin~o.
+eraser#el borrador.
+erase#borrar.
+enzymology#enzimolog�a[Noun].
+enzymologist#enzim�logo[Noun].
+enzymic#enzim�tico[Adjective].
+enzymically#enzimaticamente[Adverb].
+enzymes#enzimas[Noun].
+enzyme#enzima[Noun].
+enzymatic#enzim�tico[Adjective].
+enzymatically#enzimaticamente[Adverb].
+envy#envidiar[Verb].
+environment#ambiente[Noun].
+envelope#el sobre.
+enter#entrar.
+enough#bastante.
+enjoy#gozar.
+England#la Inglaterra.
+end#el fin.
+encompass#englobara[Verb].
+eleven#once.
+elephant#el elefante.
+elevator#el ascensor.
+electricity#electricidad[Noun].
+elbow#el codo.
+eighty#ochenta.
+educate#educa/r.
+educates#educa.
+educated#educado.
+edge#orilla.
+economy#econom'ia.
+economize#economisa/r.
+economized#economisa/do.
+economics#Economica[Noun].
+ecology#ecologia.
+easy#facil.
+eastward#al este[Adverb].
+easter#la Pasqua[Noun].
+east#el este.
+easily#facilmente.
+easiest#el mas facil.
+easier#mas facil.
+ease#facilidad.
+earthworms#gusanos.
+earthworm#gusano.
+earth#tierra.
+earths#las tierras.
+earthquake#terramoto.
+earthquakes#terramotos.
+earthquakes#los terremotos[Noun].
+earthquake#el terremoto.
+earthquake#el temblor[Noun].
+earth#la tierra.
+earring#el aro[Noun].
+earring#el arete.
+earplug#tapon de oi/do[Noun].
+earn#ganar.
+earner#ganador.
+earned#ganado.
+eager#ancioso.
+each#cada.
+during#durante.
+duende#duende.
+duck#el pato.
+dry#seco.
+dry#secar.
+drunk#borracho.
+drum#el tambor.
+drugstore#la farmacia.
+drug#la droga.
+drive#manejar.
+drip#gotear.
+drink#tomar.
+drinking#glass	el vaso.
+drink#el refresco[Noun].
+drink#beber.
+dresses#los vestidos[Noun].
+dress#el vestido.
+dream#sue�o[Noun].
+dreams#sue�os[Noun].
+dream#so�ar[Verb].
+drawer#la gaveta.
+dozen#la docena.
+dowry#dote[Noun].
+download#bajar[Verb].
+down#abajo[Adverb].
+door#la puerta.
+donkey#el burro.
+dolls#mun~ecas[Noun].
+doll#mun~eca[Noun].
+do#hacer.
+dogs#los perros.
+dog#la perra.
+dogs#las perras.
+dog#el perro.
+d'oeuvre#obra maestra (chef d'oeuvre).
+dodder#temblar[Verb].
+document#documento[Noun].
+document#documentar[Verb].
+document#document.
+documentation#documentacio/n[Noun].
+documentary#documental[Adjective].
+documental#documental.
+doctrine#doctrina[Noun].
+doctrinal#doctrinal[Adjective].
+doctrinaire#doctrinario[Noun].
+doctor#doctor[Noun].
+doctorate#doctornado[Noun].
+dockyard#arsenal[Noun].
+dock#reducir[Verb].
+docket#sumario[Noun].
+docket#orden del di/a[Noun].
+dock#da/rsena[Noun].
+dishes#los platos.
+dish#el plato.
+disaster#el desastre.
+disadvantageous#desventajado[Adjective].
+disadvantage#desventaja[Noun].
+disable#inutilizar[Verb].
+disability#inhabilidad.
+disabilities#incapacidades.
+dirty#verde[Adjective].
+dirty#sucio.
+dirtying#ensuciando.
+dirty#ensuciar[Verb].
+dining#room	el comedor.
+diocese#di�cesis[Noun].
+dimple#el hoyuelo.
+different#diferente.
+difficulty#dificultad[Noun].
+die#morir.
+diehard#duro de matar[Adjective].
+died#muerto[Verb].
+did#past of do.[Verb].
+didn't#pasado negativo de "do."
+dictionary#el diccionario.
+dictatorship#dictadura.
+dictators#dictadores.
+dictatorially#dictatorialmente.
+dictatorial#dictatorial.
+dictator#dictador.
+dictate#dictar, notar (verb), dictamen (Noun).
+dictated#dictado[Verb].
+dicotyledon#dicotiledon.
+dick#verga,pene.[Noun].
+dicks#vergas.
+dicks#pollas (vulg).
+dicker#vergante[Adjective].
+dick#declaracion, polla (vulg)[Noun].
+dichromatism#dicromatismo.
+dichromatic#dicromatico.
+dichroism#dicroismo.
+dichroic#dicroico.
+dichotomy#dicotom�a.
+diaper#el panal.
+diamond#el diamante.
+devil#el diablo.
+d'etre#de ser.
+detour#el rodeo.
+d'etat#de estado[Noun].
+destructive#destructivo[Adjective].
+destruction#ruina[Noun].
+destructible#destructible[Adjective].
+deny#negar.
+delicate#delicado.
+defeat#spanish.
+defeat#english[Noun].
+decide#decidir.
+December#diciembre.
+debt#deuda[Noun].
+debit#debit.
+debate#debate[Noun].
+death#la muerte.
+dean#decano[Noun].
+dear#querido.
+deal#trato[Noun].
+deaf#sordo.
+dead#muerto.
+deactivated#desactivado[Noun].
+days#dias.
+day#D�a.
+daybook#libro dia.
+daybed#cama dia.
+daughters#Hijas.
+daughter#Nina.
+daughter#la hija.
+daughter#Hija.
+date#la fecha.
+date#Fecha.
+dated#fechado.
+data#datos[Noun].
+database#base de datos.
+databanks#banco de datos.
+dashing#hermoso[Adjective].
+dash#corre[Verb].
+d'art#de arte, arti/stico.
+dancers#bailarines.
+dances#baila.
+dancers#bailadores.
+dancer#bailar�n[Noun].
+dancer#bailarin.
+dancer#bailador[Noun].
+dance#el baile.
+danced#bailo/.
+dance#bailar.
+damsel#doncella[Noun].
+dam#represa[Noun].
+damp#humedo[Adjective].
+damped#mojado[Verb].
+damned#condenado[Verb].
+dammit#maldici�n[Adjective].
+dally#tardar, perder el tiempo[Verb].
+dalmatian#dalmata[Noun].
+dale#valle[Noun].
+dales#valles[Noun].
+dairy#producto la/cteo[Noun].
+dairies#diarios[Noun].
+dainty#poquita[Adjective].
+daintier#delicado[Adjective].
+daily#todos los dias.
+daily#diariamente[Preposition].
+dailies#diarios[Noun].
+dahlias#dalias.
+dahlia#dalia.
+daguerreotypy#daguerrotipia[Noun].
+daguerreotypic#daguerrot�pico[Adjective].
+daguerreotypes#daguerrotipos[Noun].
+daguerreotype#daguerrotipo[Noun].
+daggers#dagas[Noun].
+daggerman#dagador[Noun].
+dagger#daga[Noun].
+daft#zonzo[Adjective].
+daftest#el mas tonto[Adjective].
+daftly#locamente[Adverb].
+dafter#mas tonto[Adjective].
+daft#bobo[Adjective].
+daffy#chiflado; loco[Adjective].
+daffodils#narcisos[Noun].
+daffodil#narciso[Noun].
+daff#bromear[Verb].
+daemons#demonios[Noun].
+daemon#espiritu[Noun].
+daemon#demonio[Noun].
+daemon#duende[Noun].
+daedal#intrincado; completo[Adjective].
+dads#papas[Noun].
+dads#padres.
+dad#padre.
+dad#el papa.
+daddy#papi, papito [Noun].
+daddy#papi, papito [Noun].
+daddy#papa/[Noun].
+daddy#padres.
+daddies#padres[Noun].
+dactylic#dact�lico[Adjective].
+dactyl#d�ctilo[Noun].
+dacha#dacha[Noun].
+dab#untar, dar palmadas[Verb].
+cut#cortar.
+curtain#la cortina.
+cursive#cursiva.
+curricular#circular.
+curious#curioso.
+curiosity#curiosidad.
+curiosities#curiosidades.
+curfew#no tengo ni puta idea.
+crutch#muleta[Noun].
+crutches#muletas[Noun].
+crumb#la miga.
+cruel#cruel[Adjective].
+crude#basto[Adjective].
+crown#corona[Noun].
+crow#el cuervo.
+crowd#muchedumbre[Noun].
+crowded#atestado[Adjective].
+crime#el crimen.
+cricket#grillo[Noun].
+cream#la crema.
+crazy#loco.
+crankshaft#ciguenal.
+crab#el cangrejo.
+cow#la vaca.
+cowboy#el vaquero.
+coward#el cobarde.
+cover#la cubierta.
+cover#cubrir.
+covenants#alianzas[Noun].
+covenant#alianza[Noun].
+cousin#el primo.
+count#contar.
+countable#contable.
+cough#toser.
+cough#la tos.
+costume#disfra/s[Noun].
+cost#costar.
+correct#correcto.
+corn#mai/z[Noun].
+corn#mai/z.
+cork#el corcho.
+corduroy#la pana.
+copy#la copia.
+copy#copiar.
+copper#el cobre.
+cool#fresco.
+contest#el concurso.
+contest#debate[Noun].
+contest#certamen[Noun].
+content#satisfecho[Adjective].
+content#contenido[Noun].
+contend#contender[Verb].
+contend#altercar[Verb].
+contend#competir[Verb].
+contemptuous#desden~oso[Adjective].
+contemplate#proyectar[Verb].
+contemplate#meditar[Verb].
+computer#computadora.
+complain#quejarse.
+commendable#recomendable[Adjective].
+commence#comenzar[Verb].
+commemorate#conmemorar[Verb].
+commas#comas[Noun].
+commands#o/rdenes[Noun].
+command#mando[Noun].
+commandant#comandante[Noun].
+comma#la coma.
+comic#comer.
+comical#co/mico[Adjective].
+comforting#confortante[Adjective].
+comforter#confortador[Noun].
+comfort#comodidad[Noun].
+comfortable#co/modo[Adjective].
+come#venir.
+comets#cometas[Noun].
+comet#cometa[Noun].
+comer#t.v..
+comer#to eat.
+comer#comest.
+comedy#la comedia.
+comediennes#co/micas[Noun].
+comedienne#co/mica[Noun].
+comedians#co/micos[Noun].
+comedian#co/mico[Noun].
+comeback#regresar[Verb].
+combustion#combustio/n[Noun].
+combustibles#combustibles[Noun].
+comb#el peine.
+colors#los colores.
+color#el color.
+college#el colegio.
+collar#el cuello.
+collar#el collar (for dog)[Noun].
+coffeepot#la cafetera.
+coconut#el coco.
+cocktail#coctail[Noun].
+cockroach#la cucaracha.
+cockpit#cabina [de un piloto][Noun].
+cock#pija, pene[Noun].
+cock#gallo[Noun].
+cockatoo#cacatua[Noun].
+c'mon#vamos.
+clown#el payaso.
+cloudy#nublado.
+clouds#las nubes.
+cloud#la nube.
+cloth#la tela.
+clothing#la ropa.
+clothes#la ropa[Noun].
+closet#el closet[Noun].
+closet#el armario.
+closed#cerrado.
+circumcision#la circuncision.
+circulatory#circulatorio (med).
+circulation#la circulacion.
+circulates#circula[Verb].
+circulated#circulado (a)[Adjective].
+circulate#circular[Verb].
+circular#circular[Adjective].
+circuits#los circuitos.
+circle#el ci/rculo.
+circuit#el circuito.
+cipher#la cifra.
+cinnamon#la canela.
+cinematography#cinematografi/a.
+cinders#cenizas.
+cinder#ceniza (ash).
+ciliary#ciliario (a)[Adjective].
+cilia#la cilia.
+cigars#los puros.
+cigarettes#los cigarros (mex).
+cigarette#el cigarro (mex).
+cigarette#el cigarrillo.
+cigar#el puro (mex).
+church#la iglesia.
+churches#las igle/sias.
+chunks#troci/tos.
+chunk#el tro/zo.
+Christmas#la Navidad.
+christening#bauti/zo.
+christened#bautiza/do (a)[Adjective].
+chose#escojer.
+chortle#reir(se)[Verb].
+chorizo#chorizo ( spanish sausage ).
+chore#la tarea.
+chopsticks#pali/llos chi/nos.
+chopstick#pali/llo chi/no.
+choose#escojer ( to choose).
+choose#escoger.
+cholinesterase#colinestera/sa.
+cholinergic#coline/rgico (a)[Adjective].
+choline#coli/na.
+cholestrol#colestero/l.
+chocolate#el chocolate.
+chocolate#chocolate.
+chloroplast#cloropla/sto.
+chlorophyll#cloro/filo.
+chloroform#clorofo/rmo.
+chlorine#clo/ro.
+chlorides#cloru/ros.
+chloride#cloru/ro.
+chin#la barbilla.
+chin#barba.
+chinaware#vajilla.
+chimps#chimpance/s.
+chimp#chimpance/.
+chimpanzees#chimpance/s.
+chimpanzee#chimpanc/e.
+chimneys#chimeneas.
+chimney#la chimenea.
+chimney#chimenea.
+chills#escalofri/os (ned).
+chill#escalofri/o (med.).
+chili#chili.
+children#nin~os.
+child#nin~o.
+child#nin~a (f).
+childless#sin descende/ncia.
+childhood#nin~ez.
+childish#bo/bo (a)[Adjective].
+chieftain#je/fe.
+chieftaincy#jefatu/ra.
+chiefly#principalmente[Adverb].
+chide#regan~ar.
+chicle#chicle ( gum).
+chick#pollito.
+chickpeas#garbanzos.
+chickpea#garbanzo.
+chickens#pollos.
+chicken#pollo.
+chickenhearted#coba/rde.
+chicken#el pollo.
+chickadees#bohi/os.
+chickadee#bohi/o.
+chic#chic.
+chess#ajedrez.
+cherubs#querubines.
+cherub#querubi/n.
+chemicals#qui/micas.
+chemical#qui/mico.
+chefs#cocineros.
+chef#cocinero.
+cheese#queso.
+cheese#el queso.
+cheeseburgers#hamburguesas de queso.
+cheeseburger#hamburquesa de queso.
+cheers#chi/n, chi/n,  ( in a brindis).
+cheerily#alegremente.
+cheerfulness#alegri/a.
+cheerfully#alegremente.
+cheeks#mejillas.
+cheek#mejilla.
+cheek#la mejilla.
+cheekbones#po/mulos.
+cheekbone#po/mulo.
+checkmate#jaquemate ( chess).
+checkers#damas ( game).
+check#cheque.
+checkbooks#chequeras.
+checkbook#chequera.
+cheapskate#tacan~o.
+cheapskates#tacan~os.
+cheapie#tacan~o.
+cheaper#ma/s barato.
+cheap#barato.
+chauvinists#machistas.
+chauvinist#machista.
+chauvinistic#machista.
+chauvinism#machismo.
+chauffeur#chofe/r.
+chatted#charlo/.
+chats#charlas.
+chat#charlar.
+chastity#castidad.
+chastisements#castigos.
+chastisement#castigo.
+chastised#castigo/.
+chastise#castigar.
+chaste#casto.
+chaser#perseguidor.
+chase#perseguir.
+charcoal#carbo/n.
+chased#persiguio/.
+charades#charadas.
+charade#charada.
+characters#cara/cteres.
+characteristics#caracteri/sticas.
+characteristic#caracteri/stica.
+character#cara/cter.
+chapters#capi/tulos.
+chapter#capi/tulo.
+chaperone#chapero/n.
+chaperon#chapero/n.
+chapels#iglesias.
+champagne#champan~a.
+chamomile#manzanilla.
+chameleon#camaleo/n.
+chained#encadenado.
+chain#cadena.
+cessation#cese.
+cesarian#cesa/rea.
+cereals#cereales.
+cereal#cereal.
+ceramist#cera/mico.
+ceramics#cera/micas.
+ceramic#cera/mica.
+cephalic#efa/lico.
+century#siglo.
+century#el siglo.
+centurion#centurio/n.
+centuries#siglos.
+cents#centavos.
+centric#ce/ntrico.
+centimo#centimo.
+centimeters#centi/metros.
+centime#centimo.
+centimeter#centi/metro.
+centigrams#centi/gramos.
+centigram#centi/gramo.
+centigrade#centi/grado.
+centesimo#cente/simo.
+centers#centros.
+centerpieces#centros de mesa.
+cemetery#cementerio.
+cemeteries#cementerios.
+cemented#encementado.
+cement#cemento.
+cellular#celular ( anglicism).
+cells#ce/dulas.
+ceiling#techo.
+ceiling#el techo.
+cedilla#cedilla.
+cede#ceder.
+cedarwood#cedro.
+cedar#cedro.
+ceases#cesa.
+ceasefire#cese al fuego.
+ceased#ceso/.
+cease#cesar.
+c#c.
+cay#cayo.
+cavity#carie ( dentist).
+cavities#caries.
+caviar#cavia/r.
+caves#cuevas.
+cave#la cueva.
+cave#cueva.
+caution#cautela.
+cauliflowers#coliflores.
+cause#causa.
+cauliflowerla#coliflor.
+cauliflower#coli/flor.
+caudillo#caudillo.
+cats#los gatos.
+caudal#caudal.
+cat#gato.
+cat#el gato.
+categorize#catalogar.
+categories#categori/as.
+categoric#catego/rico.
+categorically#catego/ricamente.
+catechism#catecismo.
+carve#tallar.
+carved#tallado.
+carts#carretillas.
+cartoon#mun~equitos.
+cartomancy#carto/mancia.
+cartography#cartografi/a.
+cartographic#cartogra/fico.
+cartographers#carto/grafos.
+cartographer#carto/grafo.
+cartilage#carti/lago.
+cartel#cartel.
+carte#carta ( as in a la carte ).
+cart#carretilla.
+cars#los coches.
+cars#automo/viles, carros.
+carry#llevar.
+carry#cargar.
+carrying#cargando.
+carryall#cargatodo.
+carrot#la zanahoria.
+carpet#la alfombra.
+carpet#alfombra.
+carpentry#carpinteri/a.
+carpenters#carpinteros.
+carpenter#el carpintero.
+carpenter#carpintero.
+carelessly#sin cuidado.
+car#el coche.
+carefulness#cuidado.
+carefully#cuidadosamente.
+careful#cuidadoso.
+carefree#sin cuidado.
+careers#profesiones.
+career#profesio/n.
+care#cuidado.
+card#tarjeta.
+cardiovascular#cardiovascular.
+caravel#caravela.
+caravans#caravanas.
+caravan#caravana.
+car#automo/vil, carro.
+capuchin#cachupi/n.
+canoes#canoas.
+cancelation#cancelacio/n.
+cancan#cancan ( the dance).
+canasta#canasta ( basket).
+canary#canario.
+canaries#canarios.
+canals#canales.
+canal#canal.
+campus#recinto.
+campuses#recintos.
+camps#campamentos.
+camphor#alca/nfor.
+campfire#fogata.
+campesinos#country folk.
+camp#campo.
+campaigns#campan~as.
+campaign#campan~a.
+calumniate#calumniar.
+call#llamar.
+calliper#calibre, pie de rey[Noun].
+calling#llamado ( as in calling in life).
+calligraphy#caligrafi/a.
+calligraphist#cali/grafo[Noun].
+calligraphic#caligra/fico[Noun].
+calligraphically#caligra/ficamente[Adverb].
+calligraphers#cali/grafos[Noun].
+caliper#calibre, pie de rey[Noun].
+caliginous#caliginoso[Adjective].
+californium#californio[Noun].
+calibre#calibre[Noun].
+calibrators#calibradores[Adjective].
+calibrator#calibrador[Adjective].
+calcaneal#calcan~al.
+calash#calesa[Noun].
+calamus#acoro, pluma[Noun].
+calamity#calamidad.
+calamitously#calamitosamente[Adverb].
+cages#jaulas.
+cable#cable.
+cabins#cabinas.
+cabin#litera.
+cabinetwork#ebanisteri/a[Noun].
+cabinets#gabinetes.
+cabinets#armarios.
+cabinetmaking#ebanister/ia.
+cabinetmakers#ebanister/ia.
+cabinetmakers#ebanistas.
+cabinetmaker#ebanista.
+cabala#ca/bala.
+bring#traer.
+bridge#el puente.
+brick#el ladrillo.
+breeze#la brisa.
+breathe#respirar.
+break#romper.
+breakfast#el desayuno.
+bread#el pan.
+bravery#el valor.
+bratwurst#salchicha[Noun].
+bra#sujetador[Noun].
+brass#metal[Noun].
+brasserie#panaderia[Noun].
+prayer#rezo[Noun].
+practice#practicar.
+powder#el polvo.
+pound#la libra.
+potato#la patata.
+potato#la papa.
+postman#cartero(a)[Noun].
+posters#carteles[Noun].
+poster#el cartel[Noun].
+possible#posible.
+porch#el porche.
+popular#popular.
+pope#El Papa[Noun].
+popcorn#las palomitas[Noun].
+poor#pobre.
+poop#caca[Noun].
+pools#las piscinas[Noun].
+pool#la piscina[Noun].
+bra#sosten.
+brandy#brandy[Noun].
+brand#marca[Noun].
+branchless#sin ramas.
+branch#la rama.
+branchiate#branquiado[Adjective].
+branchial#branquial[Noun].
+branchia#branquia[Noun].
+branches#ramas[Noun].
+brakeless#sin freno[Adjective].
+brake#freno.
+braise#brasear.
+brainy#muy inteligente; talentudo.
+brainwash#lavar el cerebro a;.
+brainwashing#lavado de cerebro.
+brainteaser#rompecabezas.
+brainstorm#idea genial.
+brains#inteligencia; cabeza.
+brainpower#fuerza intelectual.
+brainless#estupido; insensato.
+boy#chico, chamaco, nino.
+box#la caja.
+boxes#las cajas.
+bottom#el fondo.
+bottles#las botellas.
+bottle#la botella.
+bother#molestar.
+both#ambos/as[Adjective].
+boss#el jefe.
+blue#azul.
+blouse#la blusa.
+blood#la sangre.
+blond#rubio.
+bite#morder.
+bit#el bit (computadora).
+bite#bocado, picada[Noun].
+bitch#perra[Noun].
+bitches#putas, putos[Noun].
+birth#el nacimiento.
+birthday#cumplean~os[Noun].
+bird#pa/jaro[Noun].
+biochemical#bioquimico[Noun].
+big#grande.
+biff#biffar[Verb].
+bien#good[Adjective].
+bicycle#la bicicleta.
+between#entre.
+better#mejor.
+best#el mejor.
+be#ser[Verb].
+benchmarks#evaluaciones comparativas.
+benchmarking#evaluaci�n comparativa (hacer una)[Verb].
+benchmark#evaluaci�n comparativa[Noun].
+b#b.
+bat#murci"e/"lago[Noun].
+bathroom#el bano[Noun].
+baskets#las cestas.
+basket#la cesta.
+basketball#baloncesto[Noun].
+barn#el troje.
+barber#el barbero.
+barbecue#barbacoa[Noun].
+bar#barra[Noun].
+barbarize#barbarizar[Verb].
+barbarization#barbarizacio/n[Adjective].
+barbarities#barbaridades[Adjective].
+barbarism#barbarismo[Adjective].
+barbaric#barbario[Adjective].
+barbarians#b/arbaros[Adjective].
+barbarian#ba/rbaro[Adjective].
+banquet#banquete[Noun].
+ban#prohibicion[Noun].
+bankrupt#bancarrota, quiebra economica[Noun].
+banker#el banquero.
+bank#el banco.
+bank#banco.
+bandoleer#bandolero[Noun].
+bandits#bandito.
+bandit#bandido[Noun].
+band#banda.
+bandage#la venda.
+bananas#platano[Noun].
+banana#platano.
+banal#banal[Adjective].
+bamboo#bamb�.
+balustrades#barandillas.
+balustrade#barandilla[Noun].
+balsamic#balsa/mico (a)[Adjective].
+balsam#balsamo[Noun].
+balmy#suave[Adjective].
+balls#bolas[Noun].
+ballot#encuesta[Noun].
+balloons#globos[Noun].
+balloon#globo[Noun].
+ball#la pelota.
+ballistics#la bali/stica[Noun].
+ballistic#bali/stico (a)[Adjective].
+ballista#ballesta[Noun].
+ballet#ballet[Noun].
+balance#balancear[Verb].
+balalaika#pues eso.
+balalaika#balalaika[Noun].
+bakery#panaderia[Noun].
+baker#el panadero.
+bake#hornear.
+bait#cebo[Noun].
+bail#pelota, balo/n[Noun].
+baile#fiador[Noun].
+bailee#depositario[Noun].
+bailable#achicable[Adjective].
+bags#bolsas[Noun].
+bagpipes#gaitas[Noun].
+bagpiper#gaitero (a)[Noun].
+bagpipe#la gaita[Noun].
+bactericidal#bactericida[Adjective].
+bacterially#bacterianamente[Adverb].
+backup#respaldo.
+backup#copia de seguridad.
+backtrack#retrotraer.
+backtracking#desandando[Verb].
+backtracker#desandador[Noun].
+backtracked#desandado[Verb].
+backstitch#pespunte[Noun].
+backstitching#pespuntear[Verb].
+backstitches#pespuntes[Noun].
+backstitched#pespunteado[Adjective].
+backstairs#escalera de atras[Noun].
+backstage#bastidores[Noun].
+backspacing#retrocediendo[Verb].
+backspace#tecla de retroceso.
+backspaces#retrocesos[Noun].
+backspaced#retrocedido[Verb].
+backslider#reincidente[Noun].
+backslide#reincidir[Verb].
+backslash#barra invertida (\).
+backside#espalda, lomo[Noun].
+backs#ESPALDAS[Noun].
+backseat#asiento trasero.
+backrest#respaldo.
+backpacks#mochila.
+backpack#mochila.
+backpacker#mochilero.
+backpack#bolso/n.
+back#lomo (noun).
+backlogs#ATRASOS[Noun].
+backlog#lista de cosas pendientes.
+backless#SIN ESPALDA.
+baboon#babui/no.
+babies#criaturas, bebes.
+babies#bebe/s.
+babied#mimado (a)[Adjective].
+babes#ni�os[Noun].
+babes#ninos[Noun].
+attend#asistir[Verb].
+attendants#asistentes.
+attendant#asistente.
+attendance#asistencia[Noun].
+attempt#intento.
+attainableness#asequibilidad.
+attainable#conseguilbe[Adjective].
+athlete#el atleta.
+ate#comi[Verb].
+at#a.
+asterisk#el asterisco.
+aspirin#la aspirina.
+asleep#dormido.
+ask#preguntar.
+ashtray#el cenicero.
+artificial#artificial.
+article#art�culo.
+artichoke#la alcachofa.
+arrow#la flecha.
+arrive#llegar.
+arrange#arreglar.
+around#alrededor.
+arms#los brazos.
+arm#el brazo.
+argument#el argumento.
+argue#arguir.
+ant#la hormiga.
+anthem#motete(Eccl); himno nacional.
+anteroom#antesala; antecamara.
+anterior#anterior a.
+antennae#antena.
+antenna#antena.
+antenatal#prenatal; antenatal.
+antelope#antilope.
+antediluvian#antediluviano.
+antedate#preceder; ser anterior a.
+antechamber#antecamara; antesala.
+antecedents#antecedentes.
+ancient#antiguo.
+amusing#divertido.
+amuse#divertir.
+amid#entre.
+amicably#amistablemente.
+amiable#amistable.
+American#americano.
+amenities#amenidades.
+amen#ame/n.
+ambulance#la ambulancia.
+amber#ambre[Noun].
+ambassador#embajador[Noun].
+amazing#pasmoso[Adjective].
+amazing#maravilloso[Adjective].
+amazing#asombroso.
+amaze#pasmar[Verb].
+amazement#pasmo[Noun].
+amazement#asombro[Noun].
+amaze#maravillar[Verb].
+amazed#asombrado[Adjective].
+amaze#asombrar[Verb].
+amateur#novicio[Noun].
+amassed#amontado[Adjective].
+amass#amontonar[Verb].
+almost#casi.
+almond#la almendra.
+all#todo.
+allspice#malagueta[Noun].
+alloys#aleaci�nes[Noun].
+alloy#aleaci�n[Noun].
+allow#permitir.
+allow#dejar.
+alien#extranjero[Noun].
+alibi#coartada[Noun].
+algorithm#algoritmo[Noun].
+advertisement#el anuncio.
+adverb#el adverbio.
+advantage#la ventaja.
+advance#avance[Noun].
+adult#adj & n  - adulto -ta (mf).
+adsorbent#adj  - adsorbente.
+adrenalin#n  - adrenalina.
+adopt#vt  - adoptar[Verb].
+adoptive#adj  - adoptivo.
+adoptions#n  - adopciones -f (accent over second  o).
+adoption#adopcio/n[Noun].
+adolescent#adj & n  -  adolescente.
+adolescence#n  - adolescencia.
+adobe#adobe.
+addressees#Destinatarios[Noun].
+addressee#Destinatario[Noun].
+addressed#Dirigido[Verb].
+address#domicilio[Noun].
+address#Direcci�n[Noun].
+add#ma/s.
+addict#adicto.
+addendum#adenda.
+addenda#adendas.
+add#agregar; (arith) sumar[Verb].
+adaxial#adaxial[Adjective].
+adaptivity#adaptabilidad.
+adaptively#adaptativamente[Adverb].
+adaptive#adaptativo.
+adaption#n - adaptacion (accent over  o).
+adapted#adaptado.
+adaptations#adaptaciones[Noun].
+adaptational#adaptacional.
+adaptation#adaptacio/n[Noun].
+adapt#adaptar[Verb].
+adapt#adaptar(se).
+adaptable#adaptable[Adjective].
+adaptability#adaptabilidad[Noun].
+acyclically#Ac�clicamente[Adverb].
+acyclic#Ac�clico.[Adjective].
+acuteness#Agudeza[Noun].
+actualizes#Actualiza[Verb].
+actualized#Actualizado[Verb].
+actively#activamente[Adverb].
+active#activo(a)[Adjective].
+activators#Activadores[Noun].
+activator#Activador[Noun].
+activations#Activaciones[Noun].
+activation#Activaci�n[Noun].
+activates#Activa[Verb].
+activated#Activado[Verb].
+activate#activar[Verb].
+actions#acciones[Noun].
+action#accio/n[Noun].
+acrylic#Acr�lico..
+acrostic#Acr�stico[Noun].
+across#atrav�s[Adverb].
+acropolis#Acr�polis[Noun].
+acronym#Acr�nimo[Noun].
+acrobats#acr�batas[Noun].
+acrobatics#acrobacias[Noun].
+ace#as.
+accustoming#acostumbrando.
+accustomed#acostumbrado.
+accustom#acostumbrar.
+accusor#acusador/ra.
+accusing#acusando.
+accuses#acusas.
+accuser#acusador/ra.
+accused#acusado/da.
+accuse#acusar.
+accusatory#acusatorio/a.
+accreditations#acreditaciones.
+accreditation#acreditacion.
+accredit#acreditar.
+accouterments#equipo[Noun].
+accouterment#equipo[Noun].
+account#cuenta[Noun].
+accountants#contables.
+accountant#el contador.
+accountant#contable.
+accountancy#contabilidad[Noun].
+accompanyist#acompan~ante[Noun].
+accommodation#alojamiento[Noun].
+accommodation#accomadacio/n.
+accommodatingly#acomodadamente[Adverb].
+accommodating#alojando[Verb].
+accommodates#hospedar[Verb].
+accommodated#alojado.
+accommodated#acomodado.
+accolades#acoladas[Noun].
+accommodate#acomodar.
+accolade#espaldarazo.
+acclimatizes#aclimatiza[Verb].
+acclivity#cuesta, subida, pendiente[Noun].
+accident#un acidente.
+accidents#accidentes[Noun].
+accidently#accidentalmente.
+accident#el accidente.
+accident#(automobile) choque[Noun].
+accidentalness#accidentalmente[Adverb].
+accidentally#por accidente[Adverb].
+accidentally#accidentalmente[Adverb].
+accidentalism#accidentalismo.
+accidental#accidental[Adjective].
+accidence#accidente[Noun].
+accessory#accesorio.
+accessors#accesores.
+accessibility#accesibilidad[Noun].
+accesses#accesos[Noun].
+accessed#accedido[Verb].
+accessary#accesorio[Noun].
+access#acceso.
+accepts#aceptar[Verb].
+acceptors#aceptadores [Noun].
+acceptor#aceptador[Noun].
+acceptingly#con aceptaci�n[Adverb].
+accepting#aceptando[Verb].
+accepter#aceptor[Adjective].
+acceptedly#aceptadamente[Adverb].
+accepted#aceptado.
+acceptation#aceptacio/n.
+acceptances#aceptacio/nes[Noun].
+academic#acade/mico.
+abusive#abusivo.
+abusing#abusando.
+abuses#abusa.
+abusers#abusadores.
+abuser#abusador.
+abused#maltratado.
+abuso#abuso.
+abusable#abusable.
+abundantly#abundantemente[Adverb].
+abundant#abundante[Adjective].
+abundance#abundancia[Adjective].
+absurdum#absurdo[Noun].
+absurdness#absurdo[Noun].
+absurdly#absurdamente[Adverb].
+absorption#absorcio/n.
+absorptance#absortencia.
+absorbtions#absorciones[Noun].
+absorbs#absorbe[Verb].
+abortive#malogrado[Adjective].
+aborted#abortado.
+abort#aborto[Noun].
+abort#abortar.
+aborning#naciente[Adjective].
+aborigines#aborigenes[Noun].
+aborigine#aborigen,australino.
+aboriginally#aboriginalmente[Noun].
+aboriginal#aborigen.
+abduce#abducir.
+teacher#el maestro.
+teach#ensen~ar.
+taxi#taxi.
+taxis#taxis.
+tax#impuesto ( as in IRS).
+taxi#el taxi.
+taxidermy#taqui/dermia.
+taxicab#taxi.
+taxicabs#taxis.
+tax#el impuesto.
+tavern#taberna.
+taverns#tabernas.
+taverna#taberna.
+taut#tenso.
+tattoo#tatua/je.
+tattoos#tatuajes.
+tattooed#tatuado.
+tattletale#chivato ( cuban slang)noun.
+tasty#sabroso.
+tasty#gustoso.
+tasting#gustando.
+tastily#gustosamente.
+abdominally#abdominalmente.
+abdominal#abdominal.
+abdomens#abd�menes[Noun].
+abdomens#abdo/menes[Noun].
+abdomens#abdomenes.
+abdomen#(inf.)barriga, vientre.
+abdomen#abdomen[Noun].
+abdomen#abdo/men.
+abdicator#abdicador.
+abdication#abdicacio/n.
+abdication#renuncia; abdicaci�n (de un monarca)[Noun].
+abdicate#renunciar a; abdicar[Verb].
+abdicated#abdicado (participio de abdicar).
+abdicable#abdicable, que puede abdicar.
+abdicate#abdicar.
+abc#abecedario.
+abc#abc.
+abbreviator#abreviador.
+abbreviations#abreviaturas.
+abatises#sesame[Adjective].
+abashment#Verg�enza..
+abashment#verguenza.
+abashing#vergonzoso.
+abashing#vergonzante, vergonzoso.
+abase#denigrar[Verb].
+abased#degradado.
+abase#abatir, envilecer.
+abase#abatir.
+abandons#desampara.
+abandons#abandona.
+abandon#renunciar a[Verb].
+abandonments#abandonos.
+abandonment#desamparo, deserci�n.
+abandonment#abandono.
+abandoning#abandono.
+abandoner#abandonador.
+abandoning#abandonando.
+abandonee#money.
+abandonee#desamparado.
+oak#roble.
+oaken#de roble[Adjective].
+oaf#palurdo, patan, zoquete[Noun].
+nystagmus#nova.
+nurse#la enfermera.
+nuances#matices[Noun].
+nuance#matiz[Noun].
+now#ahora.
+November#noviembre.
+novel#la novela.

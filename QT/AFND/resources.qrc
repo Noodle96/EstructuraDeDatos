@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/Resources">
+        <file>dot.png</file>
+        <file>iniciar.jpeg</file>
+        <file>clear.jpeg</file>
+        <file>about.jpeg</file>
+        <file>close.jpeg</file>
+    </qresource>
+</RCC>

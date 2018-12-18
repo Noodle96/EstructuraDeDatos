@@ -1,0 +1,6 @@
+dog#perro
+cat#gato
+parrot#loro
+mokey#mono
+table#mesa
+window#ventana

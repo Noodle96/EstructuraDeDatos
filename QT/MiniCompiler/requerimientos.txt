@@ -1,0 +1,23 @@
+Nombre del minicompilador
+Autor
+Gramatica:
+    -Palabras Reservadas e.g INTEGER , FLOAT
+    -Variables e.g las variables no aceptan numeros
+    -Operadores e.g == > < () {}
+    -Numeros solo trabajamos con enteros
+
+
+Analisis lexico con automatas{No importa el analisis sintactico ni semantico}
+    Automatas determinista o no determinista
+    Automatas de pila
+
+
+
+
+//this no
+Analisis Sintatico
+
+Analisis Semantico {
+    int a ;
+    a = 23,34;
+}

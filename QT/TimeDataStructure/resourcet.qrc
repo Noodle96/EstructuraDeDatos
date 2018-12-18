@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>about.jpeg</file>
+        <file>close.jpeg</file>
+        <file>listas.jpeg</file>
+        <file>set.png</file>
+        <file>Tabla_hash.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,22 @@
+digraph {
+	rankdir=LR;
+	INITIAL[shape=point];
+INITIAL ->S1;
+	S1[style=radial, color=yellow,weight=bold ];	S5[shape=doublecircle,style=filled, color=green];
+	S1->S2[label="a" ];
+	S1->S3[label="b" ];
+	S1->S3[label="c" ];
+	S2->S3[label="a" ];
+	S2->S4[label="b" ];
+	S2->S3[label="c" ];
+	S3->S3[label="a" ];
+	S3->S3[label="b" ];
+	S3->S3[label="c" ];
+	S4->S3[label="a" ];
+	S4->S3[label="b" ];
+	S4->S5[label="c" ];
+	S5->S3[label="a" ];
+	S5->S3[label="b" ];
+	S5->S3[label="c" ];
+
+}

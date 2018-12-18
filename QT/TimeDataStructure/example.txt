@@ -1,0 +1,4 @@
+dog#monos
+cat#gatos, felino de la selva
+parrot#loro, operative System
+window#ventana

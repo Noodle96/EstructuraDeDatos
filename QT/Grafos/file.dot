@@ -1,0 +1,8 @@
+digraph ll {
+A B C D f g 	A->C[label="12"];
+	D->A[label="3"];
+	D->B[label="0"];
+	f->B[label="3"];
+	g->D[label="0"];
+
+}

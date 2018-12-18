@@ -1,0 +1,32 @@
+# include < iostream >
+using namespace std ;
+int main ( ) {
+    int a = 23 ;
+    int B = 34 ;
+    int c = a + B ;
+    bool Flag = false ;
+    string 2Num ;
+    return  0 ;
+}
+
+
+
+# include < iostream >
+using namespace std ;
+int main ( ) {
+    int a = 23 ;
+    int B = 34 ;
+    int c = a + B ;
+    bool Flag = false ;
+    string 2Num ;
+    return  0 ;
+}
+
+
+
+# include < iostream >
+using namespace std ;
+int main (
+) {
+    return  0 ;
+}
