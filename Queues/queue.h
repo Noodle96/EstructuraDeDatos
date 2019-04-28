@@ -1,8 +1,8 @@
 #ifndef QUEUE_H
 #define QUEUE_H
 
-#include "nodoQueue.h"
-template <typename T>
+//#include "nodoQueue.h"
+//template <typename T>
 class Queue{
 private:
     NodoQ<T> *m_pFirst;
