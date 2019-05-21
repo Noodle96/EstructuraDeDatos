@@ -40,7 +40,9 @@ int main(){
     db.hashearIndicesv2();
     std::cout << "\n\n";
     db.printHashArrayV2();
-    //db.SelectFromTTWhereV2("C-239");
+    db.SelectFromTTWhereV2("C-239");
+    db.SelectFromTTWhereV2("C-233");
+
 
 
 

@@ -30,6 +30,7 @@ public:
         ** no inserta registros repetidos
         *******************************************************************************************/
         hashearIndicesv2();
+        
 
 
         /******************************************************************************************/
@@ -159,7 +160,8 @@ public:
     //find de nuestro propio HASH_H
     //![v2]
     void SelectFromTTWhereV2(const char * numCuenta){
-        hashArray.find(numCuenta);
+        std::cout << "FUNCION SELECT-FROM-TTWHEREV2" << std::endl;
+        std::cout << hashArray.find(numCuenta) << std::endl;
     }
     //![v2]
 
