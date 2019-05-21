@@ -68,14 +68,17 @@ public:
     **                            //---FIND---///
     ** LA FUNCION FIND BUSCA POR CLAVE EN LA ESTRUCTURA DE DATOS HASH(PROPIA)
     *******************************************************************************************/
-    bool find(const char * numCuenta){
+    bool findd(const char * numCuenta, int &dd){
         //std::cout << "FUNCION FIND: " << std::endl;
         ULI position = returnValueOfString(numCuenta);
         std::cout << numCuenta << " le corresponde el value hash  "<<position << std::endl;
         auto &it = hashIndicesV2[position];
         for(auto et = (it).begin() ; et != (it).end(); et++){//recorrer la lista
             for(auto ot =(*et).begin() ; ot != (*et).end(); ot++){ //recorr array del i de la lista
-                if((*ot).first == numCuenta)return true;
+                if((*ot).first == numCuenta){
+                    dd = (*ot).second;
+                    return true;
+                }
             }
         }
         return false;

@@ -26,15 +26,12 @@ public:
     ~Database(){}
     void insert(Cuenta & cn){
         /*******************************************************************************************
-        **                            //---FILTRO---///
+        **                                FILTRO
         ** no inserta registros repetidos
         *******************************************************************************************/
         hashearIndicesv2();
-        
-
-
-        /******************************************************************************************/
-
+        int DD;
+        if(  hashArray.findd(cn.getNumCuenta(),DD))return;
         //insertando la relacion cuenta completa a relacionCuenta.txt
         //![0]
         fstream entradaRelCuen;
@@ -160,8 +157,20 @@ public:
     //find de nuestro propio HASH_H
     //![v2]
     void SelectFromTTWhereV2(const char * numCuenta){
-        std::cout << "FUNCION SELECT-FROM-TTWHEREV2" << std::endl;
-        std::cout << hashArray.find(numCuenta) << std::endl;
+        //std::cout << "FUNCION SELECT-FROM-TTWHEREV2" << std::endl;
+        int DD;
+        if(  hashArray.findd(numCuenta,DD) ){ //si lo encontro
+            DD--;
+            fstream salida_pri;
+            Cuenta Ctst, Ctst2;
+            salida_pri.open("relacionCuenta.dat",ios::in | ios::binary);
+			salida_pri.seekg(sizeof(Ctst) * DD, ios::beg ); // te lleva a ese registro
+			salida_pri.read( (char*) &Ctst2 , sizeof(Ctst2));
+            Ctst2.printCuenta();
+            salida_pri.close();
+        }else{//no lo encontro
+            std::cout << "registro no encontrado." << std::endl;
+        }
     }
     //![v2]
 

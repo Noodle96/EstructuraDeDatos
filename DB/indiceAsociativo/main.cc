@@ -18,9 +18,9 @@ int main(){
     lc.push_back(c1);lc.push_back(c2);lc.push_back(c3);lc.push_back(c4);
     lc.push_back(c5);lc.push_back(c6); lc.push_back(c7);Database db;
     for(auto it = lc.begin() ; it != lc.end() ; it++){
-        //db.insert(*it);
+        db.insert(*it);
     }
-    // Cuenta c8("C-905","Lima",1090); db.insert(c8);
+     Cuenta c8("C-905","Lima",1090); db.insert(c8);
     // Cuenta c9("C-1002","Lima",1090); db.insert(c9);
     // Cuenta c10("C-1001","Tacna",9200); db.insert(c10);
     // Cuenta c11("C-2001","Piura",5000); db.insert(c11);
