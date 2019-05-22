@@ -42,8 +42,12 @@ int main(){
     db.printHashArrayV2();
     db.SelectFromTTWhereV2("C-239");
     db.SelectFromTTWhereV2("C-233");
-
-
+    //std::cout << "PRINT INDEX"<< std::endl;
+    //db.printIndex();
+    //std::cout << "ELIMINAR" << std::endl;
+    //db.eliminar("C-967");
+    //std::cout << "PRINT INDEX"<< std::endl;
+    //db.printIndex();
 
 
     //Bucket b1;

@@ -101,7 +101,10 @@ public:
         Index e;
         while( salidaIndice.read( (char*)&e,sizeof(e)  ) ){
             //e.datosConstantes();
-            hashArray.insertInHash(e);
+            if(!e.isDeleted()){
+                hashArray.insertInHash(e);
+                //std::cout << e.getIndex() << " false deleted" << std::endl;
+            }
         }
         salidaIndice.close();
 
@@ -173,6 +176,31 @@ public:
         }
     }
     //![v2]
+
+
+
+
+    void eliminar(const char * numCuenta){
+        int DD;
+        if(  hashArray.findd(numCuenta,DD) ){ //si lo encontro
+            Index i;
+            i.setIndex(numCuenta);
+            i.setDeleted(true);
+            i.setPos(DD);
+            DD--;
+            fstream entrada_pri;
+            Cuenta Ctst, Ctst2;
+            entrada_pri.open("index.dat",ios::out | ios::binary);
+			entrada_pri.seekg(sizeof(Ctst) * DD, ios::beg ); // te lleva a ese registro
+			//entrada_pri.read( (char*) &Ctst2 , sizeof(Ctst2));
+            entrada_pri.write((char*)&i, sizeof(i));
+            //Ctst2.printCuenta();
+            entrada_pri.close();
+            std::cout << "end to eliminar " << std::endl;
+        }else{//no lo encontro
+            std::cout << "registro no encontrado." << std::endl;
+        }
+    }
 
 };
 
