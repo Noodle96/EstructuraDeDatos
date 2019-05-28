@@ -39,9 +39,16 @@ int main(){
     //WITH MYHASH
     db.hashearIndicesv2();
     std::cout << "\n\n";
-    db.printHashArrayV2();
-    db.SelectFromTTWhereV2("C-239");
-    db.SelectFromTTWhereV2("C-233");
+    //db.printHashArrayV2();
+    //db.SelectFromTTWhereV2("C-239");
+    //db.SelectFromTTWhereV2("C-233");
+    std::cout << "antes"<< std::endl;
+    db.printIndex();
+    db.change("C-239");
+    std::cout <<"despues" << std::endl;
+    db.printIndex();
+
+
     //std::cout << "PRINT INDEX"<< std::endl;
     //db.printIndex();
     //std::cout << "ELIMINAR" << std::endl;

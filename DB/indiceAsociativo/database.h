@@ -101,10 +101,10 @@ public:
         Index e;
         while( salidaIndice.read( (char*)&e,sizeof(e)  ) ){
             //e.datosConstantes();
-            if(!e.isDeleted()){
-                hashArray.insertInHash(e);
-                //std::cout << e.getIndex() << " false deleted" << std::endl;
-            }
+            // if(!e.isDeleted()){
+            hashArray.insertInHash(e);
+            //     //std::cout << e.getIndex() << " false deleted" << std::endl;
+            // }
         }
         salidaIndice.close();
 
@@ -200,6 +200,30 @@ public:
         }else{//no lo encontro
             std::cout << "registro no encontrado." << std::endl;
         }
+    }
+    void change(const char *numCuenta){
+        fstream salidaIndex;
+        salidaIndex.open("index.dat",std::ios::in| ios::out |ios::binary);
+        Index e;
+        while( salidaIndex.read( (char*) &e, sizeof(e)) )  {
+            // std::cout << "hola2" << std::endl;
+            //std::cout << e.getIndex() << e.getPosition() << std::endl;
+            // std::cout << e.getIndex() << " y " << !(strcmp(e.getIndex(),numCuenta)) << std::endl;
+            if( !(strcmp(e.getIndex(),numCuenta))){
+                //std:cout << "found" << std::endl;
+                //e.datosConstantes();
+                if(!e.isDeleted()){
+                    e.setDeleted(true);
+                    auto pos = -1 * sizeof(e);
+                    salidaIndex.seekp(pos,std::ios::cur);
+                    salidaIndex.write((char*)&e, sizeof(e));
+                }
+
+            }
+          //(std:cout << e.getIndex() << std::endl;
+           // std::cout << "hola3" << std::endl;
+        }
+        salidaIndex.close();
     }
 
 };
