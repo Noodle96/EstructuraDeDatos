@@ -1,0 +1,20 @@
+1,Cape Town,10000
+2,Pretoria,20000
+3,Pietermaritzburg,40000
+4,Potchefstroom,50000
+5,Bloemfontein,33333
+6,Durban,44444
+7,Grahamstown,55555
+8,Stellenbosch,66666
+9,Sandton,77777
+10,Johannesburg,88888
+11,Uitenhage,99999
+12,Parkview,56356
+13,Wynberg,36735
+14,Bedfordview,22456
+15,Parow,56788
+16,Vanderbijlpark,69527
+17,Middelburg,71893
+18,Marshalltown,74259
+19,East London,76625
+20,Olifantsfontein,78991
